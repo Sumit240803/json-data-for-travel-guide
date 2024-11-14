@@ -1,0 +1,83 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Uttarakhand",
+  "Local Places": [
+    {
+      "Name": "Nainital",
+      "Parameters": {
+        "Must-Visit": ["Naini Lake", "Tiffin Top", "Snow View Point", "Naina Devi Temple"],
+        "Local Cuisine": ["Aloo Ke Gutke", "Kachori", "Bal Mithai", "Gulab Jamun"],
+        "Scenic Beauty": ["Naini Lake", "Tiffin Top", "Snow View Point", "Nainital Peak"],
+        "Adventure Activities": ["Boating", "Trekking", "Horse Riding", "Camping"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Colonial architecture", "Local fairs", "Naina Devi Temple"]
+      }
+    },
+    {
+      "Name": "Mussoorie",
+      "Parameters": {
+        "Must-Visit": ["Kempty Falls", "Camel's Back Road", "Gun Hill", "Mussoorie Lake"],
+        "Local Cuisine": ["Momos", "Chana Madra", "Sidu", "Kumaoni Raita"],
+        "Scenic Beauty": ["Kempty Falls", "Camel's Back Road", "Mussoorie Lake", "Gun Hill"],
+        "Adventure Activities": ["Trekking", "Boating", "Paragliding", "Camping"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Colonial architecture", "Local temples", "Mussoorie's British history"]
+      }
+    },
+    {
+      "Name": "Rishikesh",
+      "Parameters": {
+        "Must-Visit": ["Lakshman Jhula", "Ram Jhula", "Triveni Ghat", "Neelkanth Mahadev Temple"],
+        "Local Cuisine": ["Aloo Ke Parathe", "Kachori", "Chole Bhature", "Ghevar"],
+        "Scenic Beauty": ["Ganga River", "Neelkanth Mahadev Temple", "Triveni Ghat", "Rajaji National Park"],
+        "Adventure Activities": ["River Rafting", "Trekking", "Yoga", "Camping"],
+        "Best Time to Visit": ["March to June", "September to November"],
+        "Cultural Significance": ["Yoga capital of the world", "Ganga Aarti", "Temples and Ashrams"]
+      }
+    },
+    {
+      "Name": "Haridwar",
+      "Parameters": {
+        "Must-Visit": ["Har Ki Pauri", "Maya Devi Temple", "Chandi Devi Temple", "Daksha Mahadev Temple"],
+        "Local Cuisine": ["Kachori", "Aloo Ke Parathe", "Lassi", "Chhole Bhature"],
+        "Scenic Beauty": ["Har Ki Pauri", "Ganga Ghats", "Maya Devi Temple", "Chandi Devi Temple"],
+        "Adventure Activities": ["River Rafting", "Trekking", "Yoga", "Camping"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Ganga Aarti", "Pilgrimage site", "Local temples"]
+      }
+    },
+    {
+      "Name": "Almora",
+      "Parameters": {
+        "Must-Visit": ["Kasar Devi Temple", "Chitai Temple", "Bright End Corner", "Binsar Wildlife Sanctuary"],
+        "Local Cuisine": ["Aloo Ke Parathe", "Gulab Jamun", "Bal Mithai", "Musk Melon"],
+        "Scenic Beauty": ["Kasar Devi Temple", "Binsar Wildlife Sanctuary", "Chitai Temple", "Bright End Corner"],
+        "Adventure Activities": ["Trekking", "Camping", "Bird Watching", "Nature Walks"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Local fairs", "Himalayan culture", "Ancient temples"]
+      }
+    },
+    {
+      "Name": "Auli",
+      "Parameters": {
+        "Must-Visit": ["Auli Artificial Lake", "Nanda Devi Temple", "Gurso Bugyal", "Chenab Lake"],
+        "Local Cuisine": ["Aloo Ke Parathe", "Sidu", "Momos", "Chana Madra"],
+        "Scenic Beauty": ["Auli Artificial Lake", "Gurso Bugyal", "Nanda Devi Mountain", "Chenab Lake"],
+        "Adventure Activities": ["Skiing", "Trekking", "Cable Car Ride", "Camping"],
+        "Best Time to Visit": ["December to February", "March to June"],
+        "Cultural Significance": ["Hindu pilgrimage", "Snow culture", "Trekking routes"]
+      }
+    },
+    {
+      "Name": "Jim Corbett National Park",
+      "Parameters": {
+        "Must-Visit": ["Corbett Museum", "Dhikala Zone", "Bijrani Zone", "Jhirna Zone"],
+        "Local Cuisine": ["Chana Madra", "Siddu", "Kachori", "Momos"],
+        "Scenic Beauty": ["Jhirna Zone", "Bijrani Zone", "Dhikala Zone", "Corbett Waterfalls"],
+        "Adventure Activities": ["Jungle Safari", "Bird Watching", "Camping", "Fishing"],
+        "Best Time to Visit": ["November to June"],
+        "Cultural Significance": ["Tiger conservation", "Corbett Museum", "Nature trails"]
+      }
+    }
+  ]
+}

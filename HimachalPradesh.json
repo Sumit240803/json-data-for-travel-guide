@@ -1,0 +1,94 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Himachal Pradesh",
+  "Local Places": [
+    {
+      "Name": "Shimla",
+      "Parameters": {
+        "Must-Visit": ["The Ridge", "Mall Road", "Jakhoo Temple", "Christ Church"],
+        "Local Cuisine": ["Sidu", "Chana Madra", "Dham", "Babru"],
+        "Scenic Beauty": ["Kufri", "Fagu", "Naldehra", "Chail"],
+        "Adventure Activities": ["Trekking", "Skiing", "Mountain Biking", "Paragliding"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Colonial architecture", "Himachali traditions", "Local fairs and festivals"]
+      }
+    },
+    {
+      "Name": "Manali",
+      "Parameters": {
+        "Must-Visit": ["Rohtang Pass", "Solang Valley", "Hidimba Devi Temple", "Old Manali"],
+        "Local Cuisine": ["Chana Madra", "Sidu", "Kullu Trout Fish", "Dham"],
+        "Scenic Beauty": ["Beas River", "Solang Valley", "Old Manali Village", "Rohtang Pass"],
+        "Adventure Activities": ["Skiing", "Paragliding", "Trekking", "River Rafting"],
+        "Best Time to Visit": ["November to February (snow activities)", "March to June (summer activities)"],
+        "Cultural Significance": ["Himachali culture", "Temples and shrines", "Local handicrafts"]
+      }
+    },
+    {
+      "Name": "Kullu",
+      "Parameters": {
+        "Must-Visit": ["Great Himalayan National Park", "Raghunath Temple", "Bijli Mahadev Temple", "Kullu Valley"],
+        "Local Cuisine": ["Kullu Trout", "Siddu", "Kullu Dham", "Chana Madra"],
+        "Scenic Beauty": ["Kullu Valley", "Beas River", "Kasol", "Manikaran"],
+        "Adventure Activities": ["Trekking", "Camping", "River Rafting", "Paragliding"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Kullu Dussehra", "Local handicrafts", "Himachali fairs"]
+      }
+    },
+    {
+      "Name": "Dharamshala",
+      "Parameters": {
+        "Must-Visit": ["McLeod Ganj", "Namgyal Monastery", "Dal Lake", "Bhagsu Waterfall"],
+        "Local Cuisine": ["Tibetan momos", "Thukpa", "Chana Madra", "Dham"],
+        "Scenic Beauty": ["Triund Hill", "Bhagsu Waterfall", "Dal Lake", "Kangra Valley"],
+        "Adventure Activities": ["Trekking", "Paragliding", "Camping", "Mountain Biking"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Tibetan culture", "Dharamsala International Film Festival", "Tibetan Buddhism"]
+      }
+    },
+    {
+      "Name": "Kasauli",
+      "Parameters": {
+        "Must-Visit": ["Christ Church", "Monkey Point", "Sunset Point", "Gilbert Trail"],
+        "Local Cuisine": ["Kullu Trout", "Siddu", "Chana Madra", "Dham"],
+        "Scenic Beauty": ["Kasauli Hills", "Timber Trail", "Sunset Point", "Kasauli Brewery"],
+        "Adventure Activities": ["Trekking", "Hiking", "Nature walks"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["British colonial architecture", "Buddhist and Hindu temples", "Local fairs"]
+      }
+    },
+    {
+      "Name": "Spiti Valley",
+      "Parameters": {
+        "Must-Visit": ["Key Monastery", "Pin Valley National Park", "Kibber Village", "Chandratal Lake"],
+        "Local Cuisine": ["Thukpa", "Momos", "Sidu", "Chana Madra"],
+        "Scenic Beauty": ["Chandratal Lake", "Spiti River", "Ki Monastery", "Kibber Village"],
+        "Adventure Activities": ["Trekking", "Mountain Biking", "Camping", "River Rafting"],
+        "Best Time to Visit": ["May to September"],
+        "Cultural Significance": ["Tibetan Buddhist culture", "Ancient monasteries", "Spiti's local traditions"]
+      }
+    },
+    {
+      "Name": "Nahan",
+      "Parameters": {
+        "Must-Visit": ["Renuka Lake", "Jaitak Fort", "Dhok Pathar", "Rani Tal Garden"],
+        "Local Cuisine": ["Chana Madra", "Siddu", "Kullu Dham", "Sidu"],
+        "Scenic Beauty": ["Renuka Lake", "Shivalik Hills", "Rani Tal Garden", "Dholra Lake"],
+        "Adventure Activities": ["Trekking", "Nature Walks", "Boating in Renuka Lake"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Shivalik hills", "Local fairs", "Historic temples"]
+      }
+    },
+    {
+      "Name": "Palampur",
+      "Parameters": {
+        "Must-Visit": ["Tea Gardens", "Baijnath Temple", "Tashi Jong Monastery", "Neugal Khad"],
+        "Local Cuisine": ["Thukpa", "Momos", "Siddu", "Chana Madra"],
+        "Scenic Beauty": ["Tea Gardens", "Baijnath Temple", "Neugal Khad", "Tashi Jong Monastery"],
+        "Adventure Activities": ["Trekking", "Paragliding", "Tea plantation walks"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Himachali tradition", "Tibetan Buddhist culture", "Palampur tea"]
+      }
+    }
+  ]
+}
