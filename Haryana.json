@@ -1,0 +1,86 @@
+{
+  "Category": "Riverside",
+  "State": "Haryana",
+  "Local Places": [
+    {
+      "Name": "Kurukshetra",
+      "Description": "A historical and spiritual destination, Kurukshetra is known for its significance in the Mahabharata. It is located on the banks of the Sarasvati River and is a center for religious tourism.",
+      "Parameters": {
+        "Must-Visit": ["Brahma Sarovar", "Jyotisar", "Sannihit Sarovar"],
+        "Local Cuisine": ["Kadhi Pakora", "Bajra Khichdi", "Makki di Roti"],
+        "Scenic Beauty": ["Brahma Sarovar", "Sarasvati River", "Green Fields"],
+        "Adventure Activities": ["Pilgrimage Walk", "Photography", "Boat Ride"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Mahabharata", "Hindu Pilgrimage"],
+        "Images": [
+          "https://example.com/images/brahma-sarovar.jpg",
+          "https://example.com/images/jyotisar.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Yamunanagar",
+      "Description": "Located along the Yamuna River, Yamunanagar is known for its lush landscapes, forests, and temples. It’s an ideal destination for nature lovers and spiritual seekers.",
+      "Parameters": {
+        "Must-Visit": ["Shahpur Jat Temple", "Yamuna Nagar Forests", "Rishipur Dham"],
+        "Local Cuisine": ["Lassi", "Aloo Paratha", "Chole Bhature"],
+        "Scenic Beauty": ["Yamuna River", "Forests", "River Banks"],
+        "Adventure Activities": ["Nature Walks", "Photography", "Boating"],
+        "Best Time to Visit": ["October to February"],
+        "Cultural Significance": ["Religious Temples", "Natural Beauty"],
+        "Images": [
+          "https://example.com/images/yamuna-river.jpg",
+          "https://example.com/images/shahpur-jat-temple.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Panipat",
+      "Description": "Known for its rich history and proximity to the Yamuna River, Panipat is a city steeped in cultural significance. It was the site of three major battles and is an important historical destination.",
+      "Parameters": {
+        "Must-Visit": ["Panipat Battlefields", "Kabuli Bagh", "Tomb of Ibrahim Lodi"],
+        "Local Cuisine": ["Panipati Biryani", "Chana Masala", "Roti"],
+        "Scenic Beauty": ["Yamuna River", "Battlefields", "Tombs"],
+        "Adventure Activities": ["Historical Tours", "Photography", "River Walks"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Historical Site", "Battlefield Tours"],
+        "Images": [
+          "https://example.com/images/panipat-battlefields.jpg",
+          "https://example.com/images/kabuli-bagh.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Pehowa",
+      "Description": "Pehowa, a small town along the Sarasvati River, is a sacred site and an important pilgrimage destination in Haryana. The town offers religious temples and peaceful riverside views.",
+      "Parameters": {
+        "Must-Visit": ["Sarasvati River", "Pehowa Temple", "Khana Khera"],
+        "Local Cuisine": ["Kachori", "Chana Chaat", "Lassi"],
+        "Scenic Beauty": ["Sarasvati River", "Temple Views", "Quiet River Banks"],
+        "Adventure Activities": ["Pilgrimage Walk", "Photography", "Boat Ride"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Sacred River", "Hindu Pilgrimage"],
+        "Images": [
+          "https://example.com/images/sarasvati-river.jpg",
+          "https://example.com/images/pehowa-temple.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sonepat",
+      "Description": "Located near the Yamuna River, Sonepat is known for its agricultural landscape and historical significance. The city is home to several temples and riverside attractions.",
+      "Parameters": {
+        "Must-Visit": ["Rishipur Dham", "Shahi Samadhan", "Gurudwara Tahliana Sahib"],
+        "Local Cuisine": ["Pinni", "Chole Bhature", "Roti"],
+        "Scenic Beauty": ["Yamuna River", "Riverside Views", "Agricultural Fields"],
+        "Adventure Activities": ["Nature Walks", "Pilgrimage Tours", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Religious Importance", "Historical Significance"],
+        "Images": [
+          "https://example.com/images/sonipat-riverside.jpg",
+          "https://example.com/images/rishipur-dham.jpg"
+        ]
+      }
+    }
+  ]
+}

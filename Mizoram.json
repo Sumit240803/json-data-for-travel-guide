@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Mizoram",
+  "Local Places": [
+    {
+      "Name": "Aizawl",
+      "Parameters": {
+        "Must-Visit": ["Solomon's Temple", "Durtlang Hills", "Reiek Tlang", "Bara Bazar"],
+        "Local Cuisine": ["Bai (vegetable stew)", "Vawksa Rep (smoked pork)", "Sawhchiar (rice and meat)", "Panch Phoran Tarka"],
+        "Scenic Beauty": ["Hilltop Views", "Cityscape from Hills", "Traditional Markets", "Sunset Points"],
+        "Adventure Activities": ["Trekking", "Sightseeing", "Shopping at Local Markets", "Photography"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Traditional Mizo Architecture", "Handicrafts", "Cultural Heritage"],
+        "Images": [
+          "https://example.com/images/solomons-temple.jpg",
+          "https://example.com/images/reiek-tlang.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Champhai",
+      "Parameters": {
+        "Must-Visit": ["Rih Dil Lake", "Lengteng Hills", "Kungawrhi Puk Cave", "Murlen National Park"],
+        "Local Cuisine": ["Misa Mach Poora (grilled shrimp)", "Bekang (fermented soybeans)", "Bamboo Shoots", "Roasted Meat"],
+        "Scenic Beauty": ["Lake Views", "Mountain Peaks", "Caves", "National Park Flora and Fauna"],
+        "Adventure Activities": ["Hiking", "Camping", "Wildlife Spotting", "Boating"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Mizo Folklore", "Traditional Celebrations", "Tribal Culture"],
+        "Images": [
+          "https://example.com/images/rih-dil-lake.jpg",
+          "https://example.com/images/lengteng-hills.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Serchhip",
+      "Parameters": {
+        "Must-Visit": ["Vantawng Falls", "Thenzawl Deer Park", "Chhingpuii Thlan", "Thenzawl Handloom Complex"],
+        "Local Cuisine": ["Zawngtah (fermented mustard leaves)", "Green Chili Paste", "Samlai (local rice)", "Freshly Cooked Vegetables"],
+        "Scenic Beauty": ["Waterfalls", "Wildlife Areas", "Historical Sites", "Handloom Centers"],
+        "Adventure Activities": ["Sightseeing", "Exploring Waterfalls", "Shopping Handloom Products", "Wildlife Viewing"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Mizo Handloom Weaving", "Waterfall Legends", "Ethnic Heritage"],
+        "Images": [
+          "https://example.com/images/vantawng-falls.jpg",
+          "https://example.com/images/thenzawl-deer-park.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Lunglei",
+      "Parameters": {
+        "Must-Visit": ["Saikuti Hall", "Khawnglung Wildlife Sanctuary", "Zobawk Sports Academy", "Lunglei Viewpoint"],
+        "Local Cuisine": ["Rice with Bamboo Shoots", "Roasted Fish", "Sa-um (boiled pork fat)", "Dal with Local Vegetables"],
+        "Scenic Beauty": ["Hilly Landscapes", "Wildlife Habitat", "Sports Complexes", "Panoramic Views"],
+        "Adventure Activities": ["Wildlife Safari", "Sports Activities", "Photography", "Nature Walks"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Tribal Folklore", "Traditional Music and Dance", "Community Halls"],
+        "Images": [
+          "https://example.com/images/khawnglung-wildlife.jpg",
+          "https://example.com/images/lunglei-viewpoint.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Hmuifang",
+      "Parameters": {
+        "Must-Visit": ["Hmuifang Tlang", "Tlungvel Village", "Vantawng Khawhthla"],
+        "Local Cuisine": ["Smoked Meat", "Local Herbs and Greens", "Rice and Fish Dishes", "Beverages from Local Fruits"],
+        "Scenic Beauty": ["Mountain Peaks", "Dense Forests", "Village Life", "Panoramic Hill Views"],
+        "Adventure Activities": ["Hiking", "Camping", "Exploring Local Villages", "Photography"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Traditional Festivals", "Local Handicrafts", "Natural Surroundings"],
+        "Images": [
+          "https://example.com/images/hmuifang-tlang.jpg",
+          "https://example.com/images/tlungvel-village.jpg"
+        ]
+      }
+    }
+  ]
+}

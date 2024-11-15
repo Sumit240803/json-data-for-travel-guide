@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Sikkim",
+  "Local Places": [
+    {
+      "Name": "Gangtok",
+      "Parameters": {
+        "Must-Visit": ["MG Marg", "Enchey Monastery", "Tashi Viewpoint", "Ganesh Tok"],
+        "Local Cuisine": ["Momos", "Thukpa", "Phagshapa", "Sha Phaley"],
+        "Scenic Beauty": ["Tashi Viewpoint", "Ganesh Tok", "Himalayan Peaks", "Enchey Monastery"],
+        "Adventure Activities": ["Paragliding", "Trekking", "Cable Car Ride", "Mountain Biking"],
+        "Best Time to Visit": ["March to June", "September to November"],
+        "Cultural Significance": ["Buddhist monasteries", "Local festivals", "Handicrafts"],
+        "Images": [
+          "https://example.com/images/gangtok-mg-marg.jpg",
+          "https://example.com/images/ganesh-tok.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Yumthang Valley",
+      "Parameters": {
+        "Must-Visit": ["Shingba Rhododendron Sanctuary", "Hot Springs", "Zero Point"],
+        "Local Cuisine": ["Gundruk", "Sel Roti", "Thenthuk", "Yak Cheese"],
+        "Scenic Beauty": ["Rhododendron Sanctuary", "Mountain Viewpoints", "Hot Springs", "Snowy Peaks"],
+        "Adventure Activities": ["Trekking", "Camping", "Photography", "Bird Watching"],
+        "Best Time to Visit": ["March to June (Rhododendron season)", "October to December"],
+        "Cultural Significance": ["Local flora", "Remote villages", "Traditional Sikkimese lifestyle"],
+        "Images": [
+          "https://example.com/images/yumthang-valley.jpg",
+          "https://example.com/images/zero-point.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Nathula Pass",
+      "Parameters": {
+        "Must-Visit": ["Indo-China Border", "Baba Harbhajan Singh Memorial Temple"],
+        "Local Cuisine": ["Yak Butter Tea", "Chhurpi Soup", "Gya Thuk", "Shaphalay"],
+        "Scenic Beauty": ["Snow-covered Peaks", "Mountainous Border Areas"],
+        "Adventure Activities": ["Hiking", "Photography", "Sightseeing"],
+        "Best Time to Visit": ["April to June", "October to November"],
+        "Cultural Significance": ["Border history", "Military significance", "Baba Harbhajan Singh Temple"],
+        "Images": [
+          "https://example.com/images/nathula-pass.jpg",
+          "https://example.com/images/baba-temple.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Pelling",
+      "Parameters": {
+        "Must-Visit": ["Pemayangtse Monastery", "Rabdentse Ruins", "Sanga Choeling Monastery"],
+        "Local Cuisine": ["Momo", "Kinema Curry", "Phagshapa", "Sinki Soup"],
+        "Scenic Beauty": ["Kanchenjunga Viewpoints", "Waterfalls", "Monastery views"],
+        "Adventure Activities": ["Trekking", "Village Walks", "Nature Photography"],
+        "Best Time to Visit": ["March to June", "September to December"],
+        "Cultural Significance": ["Ancient monasteries", "Traditional architecture", "Heritage sites"],
+        "Images": [
+          "https://example.com/images/pemayangtse-monastery.jpg",
+          "https://example.com/images/rabdentse-ruins.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Lachung",
+      "Parameters": {
+        "Must-Visit": ["Lachung Monastery", "Yumthang Valley", "Bhutanese Hamlet"],
+        "Local Cuisine": ["Sel Roti", "Yak Cheese", "Chhurpi Soup", "Thukpa"],
+        "Scenic Beauty": ["Mountainous Landscapes", "River Views", "Snow-capped Peaks"],
+        "Adventure Activities": ["Trekking", "Camping", "Bird Watching"],
+        "Best Time to Visit": ["March to June", "October to December"],
+        "Cultural Significance": ["Traditional villages", "Mountain culture", "Buddhist traditions"],
+        "Images": [
+          "https://example.com/images/lachung-valley.jpg",
+          "https://example.com/images/lachung-monastery.jpg"
+        ]
+      }
+    }
+  ]
+}

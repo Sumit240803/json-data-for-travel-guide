@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Tripura",
+  "Local Places": [
+    {
+      "Name": "Agartala",
+      "Parameters": {
+        "Must-Visit": ["Ujjayanta Palace", "Heritage Park", "Jagannath Temple", "Tripura State Museum"],
+        "Local Cuisine": ["Mui Borok (traditional Tripuri dish)", "Chakhwi", "Mosdeng Serma", "Panch Phoron Tarkari"],
+        "Scenic Beauty": ["Royal Palaces", "Greenery at Heritage Park", "Cultural Monuments", "Historical Sites"],
+        "Adventure Activities": ["Heritage Walks", "Temple Visits", "Cultural Exploration", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Tripuri Architecture", "Royal Heritage", "Museum Exhibits"],
+        "Images": [
+          "https://example.com/images/ujjayanta-palace.jpg",
+          "https://example.com/images/heritage-park.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Unakoti",
+      "Parameters": {
+        "Must-Visit": ["Rock Carvings", "Shaivite Pilgrimage Sites", "Unakotiswara Kal Bhairava", "Stone Sculptures"],
+        "Local Cuisine": ["Bamboo Shoots", "Fish Dishes", "Rice Dishes", "Traditional Desserts"],
+        "Scenic Beauty": ["Ancient Carvings", "Natural Rock Formations", "Hilly Terrain", "Cultural Landscape"],
+        "Adventure Activities": ["Hiking", "Sightseeing", "Exploring Rock Art", "Photography"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Ancient Hindu Art", "Shaivism", "Historical Significance"],
+        "Images": [
+          "https://example.com/images/unakoti-carvings.jpg",
+          "https://example.com/images/kal-bhairava.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Neermahal",
+      "Parameters": {
+        "Must-Visit": ["Neermahal Palace", "Rudrasagar Lake", "Water Palace Architecture"],
+        "Local Cuisine": ["Fish Stew", "Local Vegetables", "Chutneys", "Rice Preparations"],
+        "Scenic Beauty": ["Lake Views", "Palace in Water", "Architectural Splendor", "Lush Surroundings"],
+        "Adventure Activities": ["Boating", "Sightseeing", "Photography", "Palace Tours"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Maharaja’s Palace", "Water Palace Design", "Cultural Heritage"],
+        "Images": [
+          "https://example.com/images/neermahal.jpg",
+          "https://example.com/images/rudrasagar-lake.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Jampui Hills",
+      "Parameters": {
+        "Must-Visit": ["Orange Orchards", "Vanghmun Village", "Lush Green Hills"],
+        "Local Cuisine": ["Orange-based Dishes", "Local Delicacies", "Bamboo Steamed Rice", "Vegetable Stews"],
+        "Scenic Beauty": ["Mountain Views", "Orchards", "Traditional Villages", "Sunrise and Sunset Points"],
+        "Adventure Activities": ["Trekking", "Camping", "Fruit Picking", "Village Exploration"],
+        "Best Time to Visit": ["October to December"],
+        "Cultural Significance": ["Mizo Culture", "Orange Festival", "Eco-tourism"],
+        "Images": [
+          "https://example.com/images/jampui-hills.jpg",
+          "https://example.com/images/orange-orchards.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sepahijala Wildlife Sanctuary",
+      "Parameters": {
+        "Must-Visit": ["Botanical Garden", "Clouded Leopard Enclosure", "Zoo", "Lake and Boating"],
+        "Local Cuisine": ["Local Fish Curries", "Bamboo Shoots", "Rice Delicacies", "Chutneys"],
+        "Scenic Beauty": ["Wildlife Views", "Lush Greenery", "Lake Views", "Forest Trails"],
+        "Adventure Activities": ["Wildlife Safari", "Bird Watching", "Boating", "Nature Walks"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Biodiversity", "Conservation", "Wildlife Habitats"],
+        "Images": [
+          "https://example.com/images/sepahijala-wildlife.jpg",
+          "https://example.com/images/clouded-leopard.jpg"
+        ]
+      }
+    }
+  ]
+}

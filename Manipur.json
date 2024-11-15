@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Manipur",
+  "Local Places": [
+    {
+      "Name": "Imphal",
+      "Parameters": {
+        "Must-Visit": ["Kangla Fort", "Loktak Lake", "Imphal War Cemetery", "Shree Govindajee Temple"],
+        "Local Cuisine": ["Eromba (fermented fish with vegetables)", "Chamthong (vegetable stew)", "Singju (salad)", "Chak-hao Kheer (black rice pudding)"],
+        "Scenic Beauty": ["Lakeside Views", "Fort Ruins", "Temple Architecture", "War Memorial Gardens"],
+        "Adventure Activities": ["Boating on Loktak Lake", "Cycling", "Exploring Historical Sites", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Manipuri Martial Arts", "Traditional Handicrafts", "Ancient Meitei Culture"],
+        "Images": [
+          "https://example.com/images/kangla-fort.jpg",
+          "https://example.com/images/loktak-lake.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ukhrul",
+      "Parameters": {
+        "Must-Visit": ["Shirui Kashong Peak", "Khayang Waterfall", "Kachouphung Lake", "Hundung Mangva Cave"],
+        "Local Cuisine": ["Shirui Lily Tea", "Local Herbs and Vegetables", "Roasted Meat", "Fermented Bamboo Shoots"],
+        "Scenic Beauty": ["Mountain Peaks", "Waterfalls", "Valley Views", "Cave Formations"],
+        "Adventure Activities": ["Trekking", "Nature Walks", "Bird Watching", "Camping"],
+        "Best Time to Visit": ["April to June", "September to November"],
+        "Cultural Significance": ["Tangkhul Naga Tribe Heritage", "Shirui Lily Festival", "Traditional Folk Music"],
+        "Images": [
+          "https://example.com/images/shirui-peak.jpg",
+          "https://example.com/images/khayang-waterfall.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Moirang",
+      "Parameters": {
+        "Must-Visit": ["Loktak Lake", "INA Memorial", "Keibul Lamjao National Park", "Sendra Island"],
+        "Local Cuisine": ["Fish from Loktak Lake", "Champhut (mixed fruit dessert)", "Local Rice Dishes", "Bamboo Shoots"],
+        "Scenic Beauty": ["Floating Islands", "Lake Views", "Wetlands", "Hilly Landscapes"],
+        "Adventure Activities": ["Boating", "Wildlife Spotting", "Photography", "Island Exploration"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["World's Only Floating National Park", "INA Historical Site", "Manipuri Folk Culture"],
+        "Images": [
+          "https://example.com/images/keibul-lamjao.jpg",
+          "https://example.com/images/ina-memorial.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Churachandpur",
+      "Parameters": {
+        "Must-Visit": ["Khuga Dam", "Tipaimukh", "Tonglen Cave", "Ngaloi Falls"],
+        "Local Cuisine": ["Roasted Meat Dishes", "Bamboo Shoot Curry", "Spicy Stews", "Local Rice Varieties"],
+        "Scenic Beauty": ["Mountain Rivers", "Dam Reservoir Views", "Forested Caves", "Waterfalls"],
+        "Adventure Activities": ["Boating at Khuga Dam", "Trekking", "Cave Exploration", "Photography"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Tribal Traditions", "Artisanal Craft Markets", "Dance and Music Festivals"],
+        "Images": [
+          "https://example.com/images/khuga-dam.jpg",
+          "https://example.com/images/ngaloi-falls.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Thoubal",
+      "Parameters": {
+        "Must-Visit": ["Ikop Lake", "Waithou Lake", "Thoubal River", "People's Museum"],
+        "Local Cuisine": ["Fish-based Dishes", "Traditional Rice Preparations", "Pickled Vegetables", "Fermented Fish"],
+        "Scenic Beauty": ["River Views", "Lakeside Scenery", "Fishing Villages", "Museum Exhibits"],
+        "Adventure Activities": ["Fishing", "Boating", "Cycling", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Cultural Exhibits", "Fishing Heritage", "Local Artisanship"],
+        "Images": [
+          "https://example.com/images/ikop-lake.jpg",
+          "https://example.com/images/people-museum.jpg"
+        ]
+      }
+    }
+  ]
+}

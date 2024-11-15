@@ -1,0 +1,86 @@
+{
+  "Category": "Riverside",
+  "State": "Assam",
+  "Local Places": [
+    {
+      "Name": "Kaziranga National Park",
+      "Description": "Located along the Brahmaputra River, Kaziranga is one of India's most famous wildlife sanctuaries, known for its population of one-horned rhinoceroses and rich biodiversity.",
+      "Parameters": {
+        "Must-Visit": ["Kaziranga National Park", "Brahmaputra River Safari", "Kaliabor Tea Gardens"],
+        "Local Cuisine": ["Fish Curry", "Pitha", "Khar"],
+        "Scenic Beauty": ["Brahmaputra River", "Grasslands", "Elephant Grass"],
+        "Adventure Activities": ["Wildlife Safari", "River Safari", "Bird Watching"],
+        "Best Time to Visit": ["November to April"],
+        "Cultural Significance": ["World Heritage Site", "Biodiversity Conservation"],
+        "Images": [
+          "https://example.com/images/kaziranga-park.jpg",
+          "https://example.com/images/brahmaputra-river.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Majuli Island",
+      "Description": "Majuli, the world's largest river island, is located on the Brahmaputra River and is famous for its vibrant culture, monasteries, and picturesque landscapes.",
+      "Parameters": {
+        "Must-Visit": ["Satras of Majuli", "Dhemaji", "Mishing Village"],
+        "Local Cuisine": ["Bamboo Shoot Curry", "Pithas", "Rice Beer"],
+        "Scenic Beauty": ["Brahmaputra River", "Rice Fields", "Wooden Monasteries"],
+        "Adventure Activities": ["Cycling", "Nature Walks", "Fishing"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Vaishnavism", "River Island Culture"],
+        "Images": [
+          "https://example.com/images/majuli-island.jpg",
+          "https://example.com/images/satra-majuli.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Tezpur",
+      "Description": "Tezpur is located along the Brahmaputra River and is known for its ancient temples, scenic landscapes, and vibrant culture. The riverfront offers beautiful views and is a peaceful getaway.",
+      "Parameters": {
+        "Must-Visit": ["Agnigarh", "Nameri National Park", "Tezpur Brahmaputra Riverfront"],
+        "Local Cuisine": ["Pakhala Bhata", "Khorisa", "Masor Tenga"],
+        "Scenic Beauty": ["Brahmaputra River", "Tea Gardens", "Mountains"],
+        "Adventure Activities": ["Trekking", "Bird Watching", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Ancient Temples", "Hindu Pilgrimage"],
+        "Images": [
+          "https://example.com/images/tezpur-agnihgarh.jpg",
+          "https://example.com/images/tezpur-brahmaputra.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Jorhat",
+      "Description": "Jorhat, known as the gateway to the eastern Himalayas, is a charming city situated along the Brahmaputra River. It is famous for tea gardens, cultural heritage, and serene river views.",
+      "Parameters": {
+        "Must-Visit": ["Majuli Island", "Tea Gardens", "Jorhat Science Centre and Planetarium"],
+        "Local Cuisine": ["Pitika", "Masor Tenga", "Sikarni"],
+        "Scenic Beauty": ["Brahmaputra River", "Tea Gardens", "Riverbanks"],
+        "Adventure Activities": ["Tea Garden Tours", "Photography", "Nature Walks"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Tea Industry", "River Culture"],
+        "Images": [
+          "https://example.com/images/jorhat-tea-gardens.jpg",
+          "https://example.com/images/jorhat-brahmaputra.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sivasagar",
+      "Description": "Sivasagar is a historic city located on the banks of the Brahmaputra River, known for its ancient Ahom Kingdom architecture, temples, and the beautiful Sivasagar Lake.",
+      "Parameters": {
+        "Must-Visit": ["Sivasagar Lake", "Joysagar Tank", "Talatal Ghar"],
+        "Local Cuisine": ["Fish Curry", "Pakhala Bhata", "Khar"],
+        "Scenic Beauty": ["Brahmaputra River", "Sivasagar Lake", "Ancient Temples"],
+        "Adventure Activities": ["History Tours", "Photography", "Boating"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Ahom Architecture", "Ancient Kingdom"],
+        "Images": [
+          "https://example.com/images/sivasagar-lake.jpg",
+          "https://example.com/images/talatal-ghar.jpg"
+        ]
+      }
+    }
+  ]
+}

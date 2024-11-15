@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Meghalaya",
+  "Local Places": [
+    {
+      "Name": "Shillong",
+      "Parameters": {
+        "Must-Visit": ["Umiam Lake", "Elephant Falls", "Shillong Peak", "Ward's Lake"],
+        "Local Cuisine": ["Jadoh (rice and meat)", "Dohneiiong (pork curry)", "Pukhlein (fried rice cakes)", "Tungrymbai (fermented soybean)"],
+        "Scenic Beauty": ["Waterfalls", "Lake Views", "Hilltop Vistas", "Botanical Gardens"],
+        "Adventure Activities": ["Boating", "Trekking", "Photography", "Exploring Local Markets"],
+        "Best Time to Visit": ["September to May"],
+        "Cultural Significance": ["Traditional Khasi Culture", "Artisanal Craft Marketplaces", "Music and Art Festivals"],
+        "Images": [
+          "https://example.com/images/umiam-lake.jpg",
+          "https://example.com/images/elephant-falls.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Cherrapunji",
+      "Parameters": {
+        "Must-Visit": ["Nohkalikai Falls", "Mawsmai Caves", "Double Decker Living Root Bridge", "Seven Sisters Falls"],
+        "Local Cuisine": ["Jhur Sideh (smoked meat)", "Momos", "Bamboo Shoots", "Pork Dishes"],
+        "Scenic Beauty": ["Waterfalls", "Misty Valleys", "Lush Greenery", "Living Root Bridges"],
+        "Adventure Activities": ["Trekking", "Cave Exploration", "Sightseeing", "Photography"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Rich Khasi Folklore", "Root Bridge Architecture", "Rainfall Tourism"],
+        "Images": [
+          "https://example.com/images/nohkalikai-falls.jpg",
+          "https://example.com/images/living-root-bridge.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mawlynnong",
+      "Parameters": {
+        "Must-Visit": ["Living Root Bridge", "Sky View Point", "Village Tour", "Sacred Forest"],
+        "Local Cuisine": ["Rice and Vegetable Dishes", "Local Fruits", "Fish-based Dishes", "Traditional Herbal Teas"],
+        "Scenic Beauty": ["Clean Villages", "Mountainous Forests", "Living Root Bridges", "Sweeping Valley Views"],
+        "Adventure Activities": ["Village Walks", "Nature Photography", "Hiking", "Bird Watching"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Asia’s Cleanest Village", "Khasi Culture", "Sustainable Tourism"],
+        "Images": [
+          "https://example.com/images/mawlynnong-village.jpg",
+          "https://example.com/images/sky-view-point.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Dawki",
+      "Parameters": {
+        "Must-Visit": ["Umngot River", "Dawki Bridge", "Nearby Bangladesh Border", "Shnongpdeng Village"],
+        "Local Cuisine": ["Fish Curry", "Rice with Vegetables", "Local Pickles", "Fresh River Fish"],
+        "Scenic Beauty": ["Crystal-clear River Waters", "Border Views", "Mountain Backdrops", "Village Scenery"],
+        "Adventure Activities": ["Boating on Umngot River", "Snorkeling", "Camping", "Fishing"],
+        "Best Time to Visit": ["November to May"],
+        "Cultural Significance": ["Fishing Villages", "Cross-border Cultural Exchange", "Natural Scenic Marvels"],
+        "Images": [
+          "https://example.com/images/umngot-river.jpg",
+          "https://example.com/images/dawki-bridge.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mawsynram",
+      "Parameters": {
+        "Must-Visit": ["Mawsynram Caves", "Riat Mawblei Falls", "Local Villages", "Sacred Forests"],
+        "Local Cuisine": ["Rice Dishes", "Local Herbs", "Smoked Fish", "Rice Beer"],
+        "Scenic Beauty": ["Lush Landscapes", "Rain-soaked Forests", "Waterfalls", "Traditional Village Views"],
+        "Adventure Activities": ["Cave Exploration", "Trekking", "Monsoon Photography", "Bird Watching"],
+        "Best Time to Visit": ["October to February"],
+        "Cultural Significance": ["Rainiest Place on Earth", "Traditional Khasi Lifestyle", "Monsoon Tourism"],
+        "Images": [
+          "https://example.com/images/mawsynram-caves.jpg",
+          "https://example.com/images/riat-mawblei-falls.jpg"
+        ]
+      }
+    }
+  ]
+}

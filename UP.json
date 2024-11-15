@@ -1,0 +1,86 @@
+{
+  "Category": "Riverside",
+  "State": "Uttar Pradesh",
+  "Local Places": [
+    {
+      "Name": "Varanasi (Kashi)",
+      "Description": "One of the oldest living cities in the world, Varanasi offers a spiritual experience with its ghats along the Ganges River. It is a must-visit for those seeking history, culture, and religion.",
+      "Parameters": {
+        "Must-Visit": ["Dashashwamedh Ghat", "Assi Ghat", "Kashi Vishwanath Temple"],
+        "Local Cuisine": ["Kachori", "Chaat", "Lassi"],
+        "Scenic Beauty": ["Ganges River", "Sunset Views", "Boats on the River"],
+        "Adventure Activities": ["Boat Ride", "Ganga Aarti", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Spiritual Center", "Historical Significance"],
+        "Images": [
+          "https://example.com/images/varanasi-ghats.jpg",
+          "https://example.com/images/ganges-boat-ride.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Allahabad (Prayagraj)",
+      "Description": "The city is famous for the confluence of the Ganges, Yamuna, and the mythical Sarasvati rivers. It’s a place of religious importance and is known for the Kumbh Mela.",
+      "Parameters": {
+        "Must-Visit": ["Triveni Sangam", "Kumbh Mela", "Hanuman Mandir"],
+        "Local Cuisine": ["Petha", "Tandoori Roti", "Chole Bhature"],
+        "Scenic Beauty": ["Confluence of Rivers", "Sangam View", "River Banks"],
+        "Adventure Activities": ["Boat Ride", "Photography", "River Walk"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Kumbh Mela", "Religious Importance"],
+        "Images": [
+          "https://example.com/images/triveni-sangam.jpg",
+          "https://example.com/images/kumbh-mela.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Agra (Yamuna River)",
+      "Description": "Known for the iconic Taj Mahal, Agra offers breathtaking views of the Yamuna River, providing a serene and historic atmosphere for tourists.",
+      "Parameters": {
+        "Must-Visit": ["Taj Mahal", "Agra Fort", "Mehtab Bagh"],
+        "Local Cuisine": ["Petha", "Mughlai Kebabs", "Biryani"],
+        "Scenic Beauty": ["Yamuna River", "Taj Mahal Views", "Sunset Views"],
+        "Adventure Activities": ["Photography", "Boating", "Historical Tours"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Mughal Architecture", "UNESCO Heritage Site"],
+        "Images": [
+          "https://example.com/images/taj-mahal-yamuna.jpg",
+          "https://example.com/images/agra-fort.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mathura",
+      "Description": "The birthplace of Lord Krishna, Mathura is a key pilgrimage destination with the Yamuna River running through the town. The ghats and temples add to its spiritual aura.",
+      "Parameters": {
+        "Must-Visit": ["Vishram Ghat", "Dwarkadhish Temple", "Krishna Janmabhoomi"],
+        "Local Cuisine": ["Kachori", "Methi Parantha", "Lassi"],
+        "Scenic Beauty": ["Yamuna River", "Temple Views", "River Ghats"],
+        "Adventure Activities": ["Photography", "Boating", "Pilgrimage Walks"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Religious Site", "Krishna's Birthplace"],
+        "Images": [
+          "https://example.com/images/mathura-ghats.jpg",
+          "https://example.com/images/vishram-ghat.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kanpur (Ganges River)",
+      "Description": "A major industrial city located on the banks of the Ganges River, Kanpur offers a mix of historical, cultural, and modern experiences.",
+      "Parameters": {
+        "Must-Visit": ["Bithoor", "Jajmau", "Mangal Pandey Park"],
+        "Local Cuisine": ["Pani Puri", "Samosa", "Chole Bhature"],
+        "Scenic Beauty": ["Ganges River", "Riverfront Views", "City Parks"],
+        "Adventure Activities": ["Photography", "Boat Ride", "Nature Walks"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Industrial Hub", "Historical Significance"],
+        "Images": [
+          "https://example.com/images/kanpur-ganges.jpg",
+          "https://example.com/images/bithoor.jpg"
+        ]
+      }
+    }
+  ]
+}

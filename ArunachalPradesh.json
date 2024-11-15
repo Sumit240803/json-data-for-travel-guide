@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Arunachal Pradesh",
+  "Local Places": [
+    {
+      "Name": "Tawang",
+      "Parameters": {
+        "Must-Visit": ["Tawang Monastery", "Sela Pass", "Bum La Pass", "Nuranang Waterfall"],
+        "Local Cuisine": ["Thukpa", "Zan", "Gyapa Khazi", "Pika Pila"],
+        "Scenic Beauty": ["Himalayan Views", "High-Altitude Lakes", "Waterfalls", "Monastery Views"],
+        "Adventure Activities": ["Trekking", "Camping", "Mountain Biking", "Photography"],
+        "Best Time to Visit": ["March to June", "September to November"],
+        "Cultural Significance": ["Buddhist heritage", "Tibetan influence", "Traditional handicrafts"],
+        "Images": [
+          "https://example.com/images/tawang-monastery.jpg",
+          "https://example.com/images/sela-pass.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ziro Valley",
+      "Parameters": {
+        "Must-Visit": ["Talley Valley Wildlife Sanctuary", "Kile Pakho", "Meghna Cave Temple", "Paddy Fields"],
+        "Local Cuisine": ["Apong (local rice beer)", "Bamboo Shoot Curry", "Pasa (fish soup)", "Pork Dishes"],
+        "Scenic Beauty": ["Terraced Paddy Fields", "Dense Forests", "Hilltop Views", "Meghna Cave Temple"],
+        "Adventure Activities": ["Trekking", "Nature Walks", "Camping", "Bird Watching"],
+        "Best Time to Visit": ["March to October", "September (for Ziro Music Festival)"],
+        "Cultural Significance": ["Home of Apatani tribe", "Traditional festivals", "Rice and bamboo cultivation"],
+        "Images": [
+          "https://example.com/images/ziro-valley.jpg",
+          "https://example.com/images/talley-valley.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Itanagar",
+      "Parameters": {
+        "Must-Visit": ["Itanagar Fort", "Ganga Lake", "Jawaharlal Nehru State Museum", "Indira Gandhi Park"],
+        "Local Cuisine": ["Thenthuk", "Marua (millet)", "Local Fish Dishes", "Pork with Bamboo Shoots"],
+        "Scenic Beauty": ["Lake Views", "Green Hills", "Park Landscapes"],
+        "Adventure Activities": ["Boating", "Hiking", "Sightseeing"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Historical forts", "Ethnographic museum", "Local craft market"],
+        "Images": [
+          "https://example.com/images/itanagar-fort.jpg",
+          "https://example.com/images/ganga-lake.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Namdapha National Park",
+      "Parameters": {
+        "Must-Visit": ["Miao Village", "Deban Camp", "Noa-Dihing River", "Biodiversity Trails"],
+        "Local Cuisine": ["Wild Bamboo Shoots", "Boiled Tapioca", "Fish Curry", "Local Jungle Greens"],
+        "Scenic Beauty": ["River Landscapes", "Rainforest Views", "Mountain Backdrop"],
+        "Adventure Activities": ["Wildlife Safari", "Camping", "Trekking", "Bird Watching"],
+        "Best Time to Visit": ["November to April"],
+        "Cultural Significance": ["Rich biodiversity", "Tribal traditions", "Ecotourism hub"],
+        "Images": [
+          "https://example.com/images/namdapha-park.jpg",
+          "https://example.com/images/deban-camp.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Bomdila",
+      "Parameters": {
+        "Must-Visit": ["Bomdila Monastery", "Bomdila Viewpoint", "Apple Orchards", "Craft Center and Ethnographic Museum"],
+        "Local Cuisine": ["Thukpa", "Gyapa Khazi", "Butter Tea", "Yak Meat"],
+        "Scenic Beauty": ["Panoramic Mountain Views", "Orchard Landscapes", "Monastery Architecture"],
+        "Adventure Activities": ["Hiking", "Orchard Visits", "Local Craft Shopping"],
+        "Best Time to Visit": ["April to October"],
+        "Cultural Significance": ["Monasteries", "Tibetan-Buddhist influence", "Local handicrafts"],
+        "Images": [
+          "https://example.com/images/bomdila-monastery.jpg",
+          "https://example.com/images/bomdila-viewpoint.jpg"
+        ]
+      }
+    }
+  ]
+}

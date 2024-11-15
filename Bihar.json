@@ -1,0 +1,86 @@
+{
+  "Category": "Riverside",
+  "State": "Bihar",
+  "Local Places": [
+    {
+      "Name": "Patna",
+      "Description": "Patna, the capital city of Bihar, is located along the banks of the Ganges River. It is known for its historical landmarks, temples, and the serene riverfront offering a peaceful atmosphere.",
+      "Parameters": {
+        "Must-Visit": ["Mahavir Mandir", "Ganga Ghats", "Golghar", "Patna Museum"],
+        "Local Cuisine": ["Litti Chokha", "Chana Ghugni", "Sattu Paratha"],
+        "Scenic Beauty": ["Ganges River", "Ganga Ghats", "Riverfront Views"],
+        "Adventure Activities": ["Boating", "Photography", "Temple Visits"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Ancient City", "Religious Heritage"],
+        "Images": [
+          "https://example.com/images/patna-ghats.jpg",
+          "https://example.com/images/mahabir-mandir.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Bodh Gaya",
+      "Description": "Bodh Gaya, a UNESCO World Heritage Site, is where Lord Buddha attained enlightenment. Located near the Falgu River, it attracts millions of Buddhist pilgrims from around the world.",
+      "Parameters": {
+        "Must-Visit": ["Mahabodhi Temple", "Bodh Gaya Monastery", "Niranjana River"],
+        "Local Cuisine": ["Dalpuri", "Chokha", "Khaja"],
+        "Scenic Beauty": ["Bodh Gaya Temple", "Falgu River", "Peaceful Garden Views"],
+        "Adventure Activities": ["Pilgrimage Walks", "Photography", "Cultural Tours"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Buddhism", "Spiritual Landmark"],
+        "Images": [
+          "https://example.com/images/mahabodhi-temple.jpg",
+          "https://example.com/images/falgu-river.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sonepur",
+      "Description": "Sonepur is a town in Bihar known for its annual Sonepur Mela (fair), which is one of the largest cattle fairs in Asia. The town is located at the confluence of the Ganges and Gandak rivers.",
+      "Parameters": {
+        "Must-Visit": ["Sonepur Mela", "Sonepur Ganga Ghats", "Hariharnath Temple"],
+        "Local Cuisine": ["Chana Ghugni", "Litti Chokha", "Bihar Thali"],
+        "Scenic Beauty": ["Ganges River", "Gandak River", "Fairground Views"],
+        "Adventure Activities": ["Elephant Rides", "Camel Rides", "Shopping at the Fair"],
+        "Best Time to Visit": ["November to December (Fair Season)"],
+        "Cultural Significance": ["Annual Fair", "Religious Festivals"],
+        "Images": [
+          "https://example.com/images/sonepur-mela.jpg",
+          "https://example.com/images/sonepur-ghats.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Vaishali",
+      "Description": "Vaishali is an ancient city located near the Ganges River, historically significant as the place where Lord Buddha gave his last sermon. It is a popular destination for both pilgrims and history enthusiasts.",
+      "Parameters": {
+        "Must-Visit": ["Vaishali Stupa", "Abhishek Pushkarini", "Buddha Relic Site"],
+        "Local Cuisine": ["Litti Chokha", "Sattu Paratha", "Chana Ghugni"],
+        "Scenic Beauty": ["Ganges River", "Ancient Ruins", "Buddha Stupa"],
+        "Adventure Activities": ["Historical Tours", "Pilgrimage Walks", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Buddhist History", "Ancient Civilization"],
+        "Images": [
+          "https://example.com/images/vaishali-stupa.jpg",
+          "https://example.com/images/buddha-relic.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Munger",
+      "Description": "Munger is a historic city located on the banks of the Ganges River, famous for its rich history, ancient fort, and temples. It is known for its peaceful ambiance along the river.",
+      "Parameters": {
+        "Must-Visit": ["Munger Fort", "Kali Mandir", "Munger Ganga Ghats"],
+        "Local Cuisine": ["Mungfali Ladoo", "Chana Ghugni", "Sattu Paratha"],
+        "Scenic Beauty": ["Ganges River", "Munger Ghats", "Fort Views"],
+        "Adventure Activities": ["Fort Exploration", "Riverfront Walks", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Ancient Fort", "Religious Sites"],
+        "Images": [
+          "https://example.com/images/munger-fort.jpg",
+          "https://example.com/images/munger-ghats.jpg"
+        ]
+      }
+    }
+  ]
+}

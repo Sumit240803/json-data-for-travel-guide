@@ -1,0 +1,86 @@
+{
+  "Category": "Riverside",
+  "State": "Chandigarh",
+  "Local Places": [
+    {
+      "Name": "Sukhna Lake",
+      "Description": "Sukhna Lake is an artificial reservoir in Chandigarh, created at the foothills of the Himalayas. The lake offers scenic views and is a popular destination for boating, walks, and leisure activities.",
+      "Parameters": {
+        "Must-Visit": ["Boating", "Sunset Views", "Walking Trails", "Lakefront Park"],
+        "Local Cuisine": ["Samosas", "Chole Bhature", "Lassi", "Chaat"],
+        "Scenic Beauty": ["Lake Views", "Mountains in the Background", "Sunset Views"],
+        "Adventure Activities": ["Boating", "Cycling", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Leisure Spot", "Popular Picnic Spot"],
+        "Images": [
+          "https://example.com/images/sukhna-lake.jpg",
+          "https://example.com/images/sukhna-lake-boating.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Rock Garden of Chandigarh",
+      "Description": "The Rock Garden of Chandigarh is a unique, man-made garden located near Sukhna Lake. The garden is famous for its sculptures made from industrial waste and other unconventional materials, and it offers a peaceful and creative environment.",
+      "Parameters": {
+        "Must-Visit": ["Rock Sculptures", "Fountains", "Art Installations", "Picnic Areas"],
+        "Local Cuisine": ["Pakoras", "Chole Bhature", "Lassi", "Chaat"],
+        "Scenic Beauty": ["Greenery", "Artistic Sculptures", "Water Features"],
+        "Adventure Activities": ["Exploring Sculptures", "Photography", "Picnics"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Folk Art", "Artistic Landmark"],
+        "Images": [
+          "https://example.com/images/rock-garden.jpg",
+          "https://example.com/images/sculptures.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sector 17 Plaza",
+      "Description": "Sector 17 Plaza is one of the most popular shopping areas in Chandigarh. It is situated near the Sukhna Lake and offers a vibrant atmosphere with shopping, food, and entertainment options.",
+      "Parameters": {
+        "Must-Visit": ["Shopping", "Street Food", "Cultural Events", "Entertainment"],
+        "Local Cuisine": ["Tandoori Snacks", "Street Food", "Chaat", "Sweets"],
+        "Scenic Beauty": ["Urban Views", "Lake Views", "Lush Gardens"],
+        "Adventure Activities": ["Shopping", "Cultural Events", "Street Food Tasting"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Local Shopping", "Street Culture", "Cultural Events"],
+        "Images": [
+          "https://example.com/images/sector-17-plaza.jpg",
+          "https://example.com/images/street-food.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sukhna Wildlife Sanctuary",
+      "Description": "Located near Sukhna Lake, the Sukhna Wildlife Sanctuary is home to various species of birds, animals, and plants. The sanctuary provides a natural escape from the hustle of the city and is a great spot for nature walks and birdwatching.",
+      "Parameters": {
+        "Must-Visit": ["Birdwatching", "Nature Trails", "Wildlife Spotting", "Nature Photography"],
+        "Local Cuisine": ["Local Snacks", "Fruit Juices", "Chaat"],
+        "Scenic Beauty": ["Natural Habitat", "Lush Greenery", "Birdlife"],
+        "Adventure Activities": ["Birdwatching", "Photography", "Nature Walks"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Conservation Area", "Natural Habitat"],
+        "Images": [
+          "https://example.com/images/sukhna-wildlife.jpg",
+          "https://example.com/images/nature-trail.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Le Corbusier Centre",
+      "Description": "Le Corbusier Centre is a museum dedicated to the famous architect who designed Chandigarh. The museum offers insights into the city's architectural history and its planning process, situated near the Sukhna Lake.",
+      "Parameters": {
+        "Must-Visit": ["Architectural Exhibits", "City Planning Models", "Le Corbusier Works", "Cultural Exhibits"],
+        "Local Cuisine": ["Samosas", "Aloo Tikki", "Chole Bhature"],
+        "Scenic Beauty": ["Architectural Design", "Peaceful Surroundings", "Lake Views"],
+        "Adventure Activities": ["Exploring Exhibits", "Photography", "Cultural Learning"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Architectural History", "City Development"],
+        "Images": [
+          "https://example.com/images/le-corbuiser-centre.jpg",
+          "https://example.com/images/architectural-design.jpg"
+        ]
+      }
+    }
+  ]
+}

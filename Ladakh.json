@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Ladakh",
+  "Local Places": [
+    {
+      "Name": "Leh",
+      "Parameters": {
+        "Must-Visit": ["Leh Palace", "Shanti Stupa", "Thiksey Monastery", "Main Bazaar"],
+        "Local Cuisine": ["Momos", "Thukpa", "Skyu (Ladakhi pasta)", "Butter Tea"],
+        "Scenic Beauty": ["Panoramic Mountain Views", "Stunning Valley Landscapes", "Traditional Tibetan Architecture"],
+        "Adventure Activities": ["Trekking", "Motorbiking", "Sightseeing", "Cultural Tours"],
+        "Best Time to Visit": ["April to September"],
+        "Cultural Significance": ["Buddhist Monasteries", "Ladakhi Festivals", "Traditional Markets"],
+        "Images": [
+          "https://example.com/images/leh-palace.jpg",
+          "https://example.com/images/shanti-stupa.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Pangong Lake",
+      "Parameters": {
+        "Must-Visit": ["Pangong Tso Lake", "3 Idiots Shooting Point"],
+        "Local Cuisine": ["Tibetan Noodles", "Mutton Dishes", "Local Yak Cheese", "Butter Tea"],
+        "Scenic Beauty": ["Crystal Clear Blue Water", "Surrounding Mountains", "Scenic Sunrise and Sunset"],
+        "Adventure Activities": ["Camping", "Photography", "Nature Walks"],
+        "Best Time to Visit": ["June to September"],
+        "Cultural Significance": ["Breathtaking High-Altitude Lake", "Film Shooting Locations"],
+        "Images": [
+          "https://example.com/images/pangong-lake.jpg",
+          "https://example.com/images/sunset-pangong.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Nubra Valley",
+      "Parameters": {
+        "Must-Visit": ["Diskit Monastery", "Hunder Sand Dunes", "Maitreya Buddha Statue"],
+        "Local Cuisine": ["Yak Milk Tea", "Local Sweets", "Chutagi (Dumpling Soup)", "Butter Tea"],
+        "Scenic Beauty": ["Sand Dunes in Desert Landscape", "Mountain Backdrop", "Flowering Fields"],
+        "Adventure Activities": ["Camel Safari", "Trekking", "Photography"],
+        "Best Time to Visit": ["June to August"],
+        "Cultural Significance": ["Unique Desert Landscape", "Buddhist Heritage"],
+        "Images": [
+          "https://example.com/images/nubra-valley.jpg",
+          "https://example.com/images/diskit-monastery.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Zanskar Valley",
+      "Parameters": {
+        "Must-Visit": ["Phuktal Monastery", "Zanskar River", "Stongdey Monastery"],
+        "Local Cuisine": ["Thukpa", "Chhurpe (Dried Cheese)", "Local Breads", "Momos"],
+        "Scenic Beauty": ["Pristine Valleys", "Flowing Rivers", "Snow-Capped Mountains"],
+        "Adventure Activities": ["White Water Rafting", "Trekking", "Photography"],
+        "Best Time to Visit": ["June to September"],
+        "Cultural Significance": ["Remote Buddhist Monasteries", "Chadar Trek (Frozen River)"],
+        "Images": [
+          "https://example.com/images/zanskar-valley.jpg",
+          "https://example.com/images/phuktal-monastery.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Tso Moriri Lake",
+      "Parameters": {
+        "Must-Visit": ["Tso Moriri Lake", "Korzok Monastery"],
+        "Local Cuisine": ["Steamed Dumplings", "Tsampa (Barley Flour)", "Butter Tea", "Ladakhi Bread"],
+        "Scenic Beauty": ["Crystal Clear Lake", "Surrounding Grasslands", "Snowy Peaks"],
+        "Adventure Activities": ["Bird Watching", "Camping", "Photography"],
+        "Best Time to Visit": ["May to August"],
+        "Cultural Significance": ["High-Altitude Biodiversity", "Nomadic Tribes"],
+        "Images": [
+          "https://example.com/images/tso-moriri.jpg",
+          "https://example.com/images/korzok-monastery.jpg"
+        ]
+      }
+    }
+  ]
+}

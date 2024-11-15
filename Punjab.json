@@ -1,0 +1,82 @@
+{
+  "Category": "Riverside",
+  "State": "Punjab",
+  "Local Places": [
+    {
+      "Name": "Harike Wetland and Bird Sanctuary",
+      "Description": "A peaceful sanctuary with rich biodiversity, perfect for bird watching, boating, and enjoying nature trails along the Beas River.",
+      "Parameters": {
+        "Must-Visit": ["Harike Lake", "Bird Watching", "Nature Trails"],
+        "Local Cuisine": ["Sarson Da Saag", "Makki Di Roti", "Chole Bhature"],
+        "Scenic Beauty": ["Wetlands", "River Views", "Birdlife"],
+        "Adventure Activities": ["Bird Watching", "Photography", "Boating"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Migratory Birds", "Eco-Tourism"],
+        "Images": [
+          "https://example.com/images/harike-wetland.jpg",
+          "https://example.com/images/bird-sanctuary.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Beas River",
+      "Description": "The Beas River offers a serene environment for fishing, picnicking, and scenic views of the surrounding hills and greenery.",
+      "Parameters": {
+        "Must-Visit": ["Beas River Banks", "Fishing Spots", "Riverside Picnic Spots"],
+        "Local Cuisine": ["Dal Makhani", "Roti", "Aloo Paratha"],
+        "Scenic Beauty": ["River Views", "Surrounding Mountains", "Greenery"],
+        "Adventure Activities": ["Fishing", "Picnicking", "Trekking"],
+        "Best Time to Visit": ["April to October"],
+        "Cultural Significance": ["Historical River", "Fishing Culture"],
+        "Images": [
+          "https://example.com/images/beas-river.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ropar Wetland",
+      "Description": "An eco-friendly spot for bird watching and boat rides, Ropar Wetland is a perfect destination for nature lovers and photographers.",
+      "Parameters": {
+        "Must-Visit": ["Ropar Lake", "Boating", "Bird Watching"],
+        "Local Cuisine": ["Methi Paratha", "Tandoori Roti", "Sarson Da Saag"],
+        "Scenic Beauty": ["Wetlands", "Sunset Views", "Birdlife"],
+        "Adventure Activities": ["Boating", "Photography", "Nature Walks"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Eco-Tourism", "Migratory Birds"],
+        "Images": [
+          "https://example.com/images/ropar-wetland.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sultanpur Bird Sanctuary",
+      "Description": "A birdwatcher’s paradise, the Sultanpur Sanctuary offers a chance to observe over 250 species of migratory and resident birds.",
+      "Parameters": {
+        "Must-Visit": ["Bird Watching", "Riverside Walks", "Nature Trails"],
+        "Local Cuisine": ["Lassi", "Aloo Tikki", "Paratha"],
+        "Scenic Beauty": ["Wetlands", "Riverside Views", "Birdlife"],
+        "Adventure Activities": ["Photography", "Bird Watching", "Nature Walks"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Migratory Birds", "Eco-Tourism"],
+        "Images": [
+          "https://example.com/images/sultanpur-bird-sanctuary.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Chandigarh Sukhna Lake",
+      "Description": "A serene urban lake offering boat rides and picturesque views, perfect for a relaxing stroll or a peaceful day out.",
+      "Parameters": {
+        "Must-Visit": ["Sukhna Lake", "Boat Ride", "Leisure Walks"],
+        "Local Cuisine": ["Chana Chaat", "Samosa", "Kachori"],
+        "Scenic Beauty": ["Lake Views", "Surrounding Hills", "Boating"],
+        "Adventure Activities": ["Boating", "Photography", "Leisure Walks"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Urban Lake", "Eco-Tourism"],
+        "Images": [
+          "https://example.com/images/sukhna-lake.jpg"
+        ]
+      }
+    }
+  ]
+}

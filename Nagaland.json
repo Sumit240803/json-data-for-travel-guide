@@ -1,0 +1,81 @@
+{
+  "Category": "Mountains and Hilly Areas",
+  "State": "Nagaland",
+  "Local Places": [
+    {
+      "Name": "Kohima",
+      "Parameters": {
+        "Must-Visit": ["Kohima War Cemetery", "Kisama Heritage Village", "Dzukou Valley", "Naga Bazaar"],
+        "Local Cuisine": ["Bamboo Shoot Curry", "Axone (fermented soybeans)", "Galho (rice dish)", "Smoked Pork"],
+        "Scenic Beauty": ["Mountain Views", "Lush Valleys", "War Memorials", "Tribal Villages"],
+        "Adventure Activities": ["Trekking", "Camping", "Cultural Festivals (Hornbill Festival)", "Photography"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["WWII history", "Naga heritage", "Traditional handicrafts"],
+        "Images": [
+          "https://example.com/images/kohima-war-cemetery.jpg",
+          "https://example.com/images/kisama-heritage-village.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Dzukou Valley",
+      "Parameters": {
+        "Must-Visit": ["Flowering Meadows", "Dzukou River", "Valley Caves", "Camping Sites"],
+        "Local Cuisine": ["Rice and Bamboo Shoots", "Local Herbs", "Traditional Tea", "Fresh Stream Fish"],
+        "Scenic Beauty": ["Floral Meadows", "Rolling Hills", "Mountain Streams", "Hiking Trails"],
+        "Adventure Activities": ["Trekking", "Camping", "Wildlife Spotting", "Photography"],
+        "Best Time to Visit": ["June to September (for flowers)", "October to February (for trekking)"],
+        "Cultural Significance": ["Known for Dzukou Lily", "Popular trekking site", "Peaceful retreats"],
+        "Images": [
+          "https://example.com/images/dzukou-valley.jpg",
+          "https://example.com/images/dzukou-trek.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mokokchung",
+      "Parameters": {
+        "Must-Visit": ["Longkhum Village", "Mopungchuket Village", "Chuchuyimlang Village", "Sungkomen Baptist Church"],
+        "Local Cuisine": ["Rice Beer", "Smoked Pork", "Naga Chilies", "Bamboo Shoots"],
+        "Scenic Beauty": ["Traditional Villages", "Mountain Views", "Rich Forests"],
+        "Adventure Activities": ["Village Tours", "Trekking", "Cultural Tours", "Handicraft Shopping"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Home of Ao Naga Tribe", "Cultural festivals", "Traditional Naga architecture"],
+        "Images": [
+          "https://example.com/images/mokokchung-village.jpg",
+          "https://example.com/images/sungkomen-church.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mon",
+      "Parameters": {
+        "Must-Visit": ["Shangnyu Village", "Veda Peak", "Longwa Village (bordering Myanmar)", "Chui Village"],
+        "Local Cuisine": ["Pork with Bamboo Shoots", "Local Fish", "Vegetable Fermentation Dishes"],
+        "Scenic Beauty": ["Border Villages", "Mountain Peaks", "Unique Tribal Villages"],
+        "Adventure Activities": ["Trekking", "Cultural Visits", "Photography", "Nature Walks"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Home of Konyak tribe", "Known for traditional headhunters", "Cultural artistry"],
+        "Images": [
+          "https://example.com/images/mon-village.jpg",
+          "https://example.com/images/veda-peak.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Wokha",
+      "Parameters": {
+        "Must-Visit": ["Mount Tiyi", "Doyang River", "Totsu Cliff", "Ancient Monoliths"],
+        "Local Cuisine": ["Sticky Rice", "Naga Curry", "Local Mushrooms", "Herbal Tea"],
+        "Scenic Beauty": ["Mountainous Landscapes", "River Views", "Rich Flora"],
+        "Adventure Activities": ["Trekking", "Fishing", "Bird Watching (Doyang for Amur Falcons)", "Camping"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Lotha tribe traditions", "Folklore of Mount Tiyi", "Amur Falcon roosting site"],
+        "Images": [
+          "https://example.com/images/mount-tiyi.jpg",
+          "https://example.com/images/doyang-river.jpg"
+        ]
+      }
+    }
+  ]
+}

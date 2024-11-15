@@ -1,0 +1,86 @@
+{
+  "Category": "Riverside",
+  "State": "Delhi",
+  "Local Places": [
+    {
+      "Name": "Yamuna Riverfront",
+      "Description": "The Yamuna Riverfront in Delhi is a beautiful stretch along the Yamuna River, providing peaceful spots for walking, boating, and enjoying the scenic views of the river and surrounding landscape.",
+      "Parameters": {
+        "Must-Visit": ["Yamuna Ghat", "Sunset Views", "Boating Area", "Walking Trails"],
+        "Local Cuisine": ["Chole Bhature", "Aloo Tikki", "Parathas"],
+        "Scenic Beauty": ["Yamuna River", "Lush Green Gardens", "Riverfront Views"],
+        "Adventure Activities": ["Boating", "Cycling", "Photography"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Religious Importance", "Riverfront Views"],
+        "Images": [
+          "https://example.com/images/yamuna-ghat.jpg",
+          "https://example.com/images/yamuna-riverfront.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Delhi Haat",
+      "Description": "Delhi Haat is located along the banks of the Yamuna River and offers an eclectic mix of local crafts, food, and cultural performances, making it an ideal place for shopping and experiencing local culture.",
+      "Parameters": {
+        "Must-Visit": ["Craft Stalls", "Cultural Performances", "Local Food Stalls", "Handicrafts Market"],
+        "Local Cuisine": ["Chaat", "Biryani", "Kebabs", "Sweets"],
+        "Scenic Beauty": ["River Views", "Lush Gardens", "Vibrant Market Atmosphere"],
+        "Adventure Activities": ["Shopping", "Cultural Performances", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Local Crafts", "Traditional Food", "Cultural Events"],
+        "Images": [
+          "https://example.com/images/delhi-haat.jpg",
+          "https://example.com/images/cultural-performance.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Pragati Maidan",
+      "Description": "Pragati Maidan is an exhibition center located near the Yamuna River in Delhi, hosting various events and fairs throughout the year. It provides a vibrant atmosphere and scenic views of the river.",
+      "Parameters": {
+        "Must-Visit": ["India International Trade Fair", "Exhibitions", "Cultural Fairs", "Technology Shows"],
+        "Local Cuisine": ["Street Food", "Chole Bhature", "Kebabs", "Ice Cream"],
+        "Scenic Beauty": ["Yamuna River Views", "Garden Areas", "Exhibition Grounds"],
+        "Adventure Activities": ["Exhibitions", "Technology Shows", "Cultural Fairs"],
+        "Best Time to Visit": ["September to March"],
+        "Cultural Significance": ["Cultural Fairs", "Business Exhibitions"],
+        "Images": [
+          "https://example.com/images/pragati-maidan.jpg",
+          "https://example.com/images/india-fair.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Red Fort",
+      "Description": "The Red Fort, located near the Yamuna River, is a UNESCO World Heritage Site in Delhi, known for its historical significance, stunning Mughal architecture, and the serene atmosphere by the river.",
+      "Parameters": {
+        "Must-Visit": ["Red Fort", "Mughal Gardens", "Historical Monuments", "Lahore Gate"],
+        "Local Cuisine": ["Parathas", "Chole Bhature", "Mughlai Cuisine", "Sweets"],
+        "Scenic Beauty": ["River Views", "Lush Gardens", "Historic Architecture"],
+        "Adventure Activities": ["Fort Exploration", "Photography", "Cultural Tours"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Mughal History", "UNESCO World Heritage Site"],
+        "Images": [
+          "https://example.com/images/red-fort.jpg",
+          "https://example.com/images/mughal-gardens.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Itaunja",
+      "Description": "Itaunja, located along the Yamuna River in Delhi, is a historical place known for its old monuments and peaceful surroundings, making it an excellent spot for nature walks and photography.",
+      "Parameters": {
+        "Must-Visit": ["Itaunja Monuments", "Yamuna River Banks", "Ancient Ruins", "Old Temples"],
+        "Local Cuisine": ["Kebabs", "Biryani", "Parathas", "Lassi"],
+        "Scenic Beauty": ["River Views", "Old Temples", "Lush Greenery"],
+        "Adventure Activities": ["Nature Walks", "Photography", "Exploring Ruins"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Historical Significance", "Ancient Monuments"],
+        "Images": [
+          "https://example.com/images/itaunja-monuments.jpg",
+          "https://example.com/images/river-banks.jpg"
+        ]
+      }
+    }
+  ]
+}
