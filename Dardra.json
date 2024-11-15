@@ -1,0 +1,86 @@
+{
+  "Category": "Coastal Plains",
+  "State": "Dadra and Nagar Haveli and Daman and Diu",
+  "Local Places": [
+    {
+      "Name": "Daman Beach",
+      "Description": "Daman Beach is known for its calm waters, golden sands, and vibrant atmosphere. The beach offers a peaceful retreat for visitors to relax and enjoy the coastal beauty.",
+      "Parameters": {
+        "Must-Visit": ["Daman Fort", "Nani Daman Beach", "Moti Daman Beach", "Devka Beach"],
+        "Local Cuisine": ["Seafood", "Gujarati Cuisine", "Maharashtrian Snacks", "Street Food"],
+        "Scenic Beauty": ["Beach Views", "Coastal Sunset", "Sandy Shores"],
+        "Adventure Activities": ["Boating", "Jet Skiing", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Portuguese Influence", "Colonial Architecture"],
+        "Images": [
+          "https://example.com/images/daman-beach.jpg",
+          "https://example.com/images/daman-fort.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Daman Fort",
+      "Description": "Daman Fort is a historic fort located in Daman with its roots dating back to the Portuguese era. It is a great spot for exploring the rich history and enjoying panoramic views of the Arabian Sea.",
+      "Parameters": {
+        "Must-Visit": ["Portuguese Church", "Daman Ganga River", "Cathedral of Bom Jesus", "Nani Daman Fort"],
+        "Local Cuisine": ["Prawn Curry", "Fried Fish", "Indian Sweets", "Fried Snacks"],
+        "Scenic Beauty": ["Fort Views", "River Views", "Ocean Views"],
+        "Adventure Activities": ["Historical Exploration", "Photography", "Sightseeing"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Portuguese Colonial Era", "Heritage Sites"],
+        "Images": [
+          "https://example.com/images/daman-fort.jpg",
+          "https://example.com/images/fort-views.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Nani Daman",
+      "Description": "Nani Daman is a small and scenic area located in Daman and Diu. It is famous for its historic buildings, churches, and calm atmosphere. A perfect place for history buffs and peaceful getaways.",
+      "Parameters": {
+        "Must-Visit": ["Moti Daman", "Daman Ganga River", "Nani Daman Beach", "Church of Our Lady of Rosary"],
+        "Local Cuisine": ["Seafood", "Goan Food", "Pav Bhaji", "Chutneys"],
+        "Scenic Beauty": ["Coastal Views", "Fort Views", "Beachfront"],
+        "Adventure Activities": ["Beach Activities", "Cultural Walks", "Fishing"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Portuguese Influence", "Colonial Architecture"],
+        "Images": [
+          "https://example.com/images/nani-daman.jpg",
+          "https://example.com/images/church-of-rosary.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Devka Beach",
+      "Description": "Devka Beach is one of the most popular beaches in Daman. Known for its wide coastline, it is a perfect destination for water sports and enjoying local snacks by the beach.",
+      "Parameters": {
+        "Must-Visit": ["Daman Lighthouse", "Moti Daman", "Devka Garden", "Devka Beach Park"],
+        "Local Cuisine": ["Grilled Fish", "Biryani", "Gujarati Sweets", "Tea and Snacks"],
+        "Scenic Beauty": ["Beach Views", "Sunset Views", "Surrounding Hills"],
+        "Adventure Activities": ["Jet Skiing", "Parasailing", "Photography"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Local Festivities", "Beach Culture"],
+        "Images": [
+          "https://example.com/images/devka-beach.jpg",
+          "https://example.com/images/jet-skiing.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Cathedrals of Daman",
+      "Description": "Daman is home to beautiful cathedrals such as the Cathedral of Bom Jesus and the Church of Our Lady of the Sea, showcasing the region's Portuguese colonial influence and architectural beauty.",
+      "Parameters": {
+        "Must-Visit": ["Cathedral of Bom Jesus", "Church of Our Lady of Sea", "Se Cathedral", "Church of St. Jerome"],
+        "Local Cuisine": ["Seafood", "Kadhi", "Dhokla", "Sweets like Ladoo"],
+        "Scenic Beauty": ["Cathedral Views", "Colonial Architecture", "Quiet Courtyards"],
+        "Adventure Activities": ["Historical Tours", "Cultural Walks", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Portuguese Colonial Legacy", "Christian Heritage"],
+        "Images": [
+          "https://example.com/images/cathedral-of-bom-jesus.jpg",
+          "https://example.com/images/our-lady-of-sea.jpg"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Category": "Coastal Plains",
+  "State": "Puducherry",
+  "Local Places": [
+    {
+      "Name": "Puducherry Beach",
+      "Description": "Puducherry Beach is known for its serene coastline, golden sands, and peaceful atmosphere. It is a perfect destination for beach lovers, ideal for relaxation and enjoying water sports.",
+      "Parameters": {
+        "Must-Visit": ["Puducherry Promenade", "Rock Beach", "Chunnambar Boat House", "French War Memorial"],
+        "Local Cuisine": ["Seafood", "Biryani", "French Cuisine", "South Indian Sweets"],
+        "Scenic Beauty": ["Beach Views", "Sunset Views", "Seaside Views"],
+        "Adventure Activities": ["Boating", "Surfing", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["French Colonial Architecture", "Seaside Heritage"],
+        "Images": [
+          "https://example.com/images/puducherry-beach.jpg",
+          "https://example.com/images/rock-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Auroville",
+      "Description": "Auroville is an international township in Puducherry known for its unique philosophy of human unity. It is famous for the Matrimandir, a stunning golden globe, and its peaceful environment.",
+      "Parameters": {
+        "Must-Visit": ["Matrimandir", "Auroville Beach", "Auroville Visitor Centre", "Solar Kitchen"],
+        "Local Cuisine": ["Auroville Organic Food", "Indian Cuisine", "French-inspired Dishes", "Vegan Cuisine"],
+        "Scenic Beauty": ["Matri Mandir Views", "Nature Trails", "Auroville Beach"],
+        "Adventure Activities": ["Yoga", "Meditation", "Nature Walks"],
+        "Best Time to Visit": ["October to February"],
+        "Cultural Significance": ["Human Unity", "Spiritual Retreat", "Alternative Living"],
+        "Images": [
+          "https://example.com/images/matrimandir.jpg",
+          "https://example.com/images/auroville-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sri Aurobindo Ashram",
+      "Description": "The Sri Aurobindo Ashram is one of the most prominent spiritual destinations in Puducherry. It is the place where Sri Aurobindo and his spiritual collaborator, the Mother, spent their final years.",
+      "Parameters": {
+        "Must-Visit": ["Samadhi of Sri Aurobindo", "Sri Aurobindo Library", "Aurobindo Ashram Boutique", "Aurobindo Gardens"],
+        "Local Cuisine": ["Vegetarian Food", "Organic Cuisine", "Traditional Indian Sweets", "Auroville Café"],
+        "Scenic Beauty": ["Ashram Gardens", "Spiritual Retreat Views", "Peaceful Environment"],
+        "Adventure Activities": ["Meditation", "Spiritual Practices", "Heritage Walk"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Spiritualism", "Yoga and Meditation"],
+        "Images": [
+          "https://example.com/images/sri-aurobindo-ashram.jpg",
+          "https://example.com/images/auroville-ashram.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Basilica of the Sacred Heart of Jesus",
+      "Description": "The Basilica of the Sacred Heart of Jesus is a stunning Gothic-style church in Puducherry. It is known for its beautiful stained-glass windows and is an important landmark for Christians in the region.",
+      "Parameters": {
+        "Must-Visit": ["Basilica Interior", "Churchyard", "Stained Glass Windows", "Lighting Ceremony"],
+        "Local Cuisine": ["Traditional South Indian Food", "Seafood", "Baked Goods"],
+        "Scenic Beauty": ["Architectural Views", "Churchyard Views", "Stained Glass Art"],
+        "Adventure Activities": ["Photography", "Exploring History", "Religious Tourism"],
+        "Best Time to Visit": ["October to February"],
+        "Cultural Significance": ["Christianity in India", "Gothic Architecture"],
+        "Images": [
+          "https://example.com/images/basilica-sacred-heart.jpg",
+          "https://example.com/images/stained-glass-window.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ousteri Lake",
+      "Description": "Ousteri Lake is a peaceful, scenic water body located on the outskirts of Puducherry. It is a great spot for birdwatching, boating, and photography, offering a tranquil escape from the city.",
+      "Parameters": {
+        "Must-Visit": ["Boating", "Bird Watching", "Nature Walk", "Photography Spot"],
+        "Local Cuisine": ["Traditional Tamil Cuisine", "South Indian Snacks", "Chutneys", "Local Sweets"],
+        "Scenic Beauty": ["Lake Views", "Nature Surroundings", "Sunset Views"],
+        "Adventure Activities": ["Boating", "Nature Walk", "Bird Watching"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Local Culture", "Conservation Efforts"],
+        "Images": [
+          "https://example.com/images/ousteri-lake.jpg",
+          "https://example.com/images/bird-watching.jpg"
+        ]
+      }
+    }
+  ]
+}

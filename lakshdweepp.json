@@ -1,0 +1,86 @@
+{
+  "Category": "Islands",
+  "State": "Lakshadweep",
+  "Local Places": [
+    {
+      "Name": "Agatti Island",
+      "Description": "Agatti Island is known for its crystal-clear waters, white sandy beaches, and vibrant coral reefs. It is one of the most popular destinations for water sports and relaxing getaways.",
+      "Parameters": {
+        "Must-Visit": ["Agatti Beach", "Lagoon Tours", "Coral Reefs", "Sunset Views"],
+        "Local Cuisine": ["Seafood", "Fish Curry", "Coconut-Based Dishes", "Tandoori Prawns"],
+        "Scenic Beauty": ["Clear Waters", "Pristine Beaches", "Coral Reefs", "Lagoon Views"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Kayaking", "Swimming with Fish"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Island Life", "Traditional Fishing Communities"],
+        "Images": [
+          "https://example.com/images/agatti-island.jpg",
+          "https://example.com/images/agatti-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kavaratti Island",
+      "Description": "Kavaratti is the administrative capital of Lakshadweep. It offers stunning beaches, a marine aquarium, and the opportunity for water sports activities like snorkeling and diving.",
+      "Parameters": {
+        "Must-Visit": ["Kavaratti Beach", "Marine Aquarium", "Ujra Mosque", "Laccadive Island Beach"],
+        "Local Cuisine": ["Seafood Biryani", "Fish Fry", "Coconut Rice", "Grilled Lobster"],
+        "Scenic Beauty": ["Blue Lagoon", "Pristine Beaches", "Coral Reefs"],
+        "Adventure Activities": ["Scuba Diving", "Snorkeling", "Fishing", "Canoeing"],
+        "Best Time to Visit": ["November to April"],
+        "Cultural Significance": ["Muslim Traditions", "Island Festivals", "Fishing Communities"],
+        "Images": [
+          "https://example.com/images/kavaratti-island.jpg",
+          "https://example.com/images/marine-aquarium.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Minicoy Island",
+      "Description": "Minicoy Island is one of the southernmost islands of Lakshadweep and is known for its distinctive culture, white-sand beaches, and lighthouse.",
+      "Parameters": {
+        "Must-Visit": ["Minicoy Lighthouse", "Villingili Beach", "Moha Beach", "Bounty Beach"],
+        "Local Cuisine": ["Fish Curry", "Tuna", "Coconut Dishes", "Seafood Stew"],
+        "Scenic Beauty": ["Lighthouse Views", "Pristine Beaches", "Crystal Clear Waters", "Coral Gardens"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Fishing", "Beach Volleyball"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Island Tradition", "Laccadive Culture"],
+        "Images": [
+          "https://example.com/images/minicoy-island.jpg",
+          "https://example.com/images/minicoy-lighthouse.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Bangaram Island",
+      "Description": "Bangaram Island is a beautiful tropical paradise with unspoiled beaches, crystal-clear waters, and an ideal place for swimming, snorkeling, and scuba diving.",
+      "Parameters": {
+        "Must-Visit": ["Bangaram Beach", "Coral Reefs", "Lagoon", "Sunset Views"],
+        "Local Cuisine": ["Seafood Platter", "Grilled Fish", "Coconut Curries", "Tropical Fruits"],
+        "Scenic Beauty": ["Lagoon", "Coral Reefs", "Beaches", "Sunset Views"],
+        "Adventure Activities": ["Scuba Diving", "Snorkeling", "Kayaking", "Parasailing"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Island Life", "Traditional Dances", "Fishing Communities"],
+        "Images": [
+          "https://example.com/images/bangaram-island.jpg",
+          "https://example.com/images/bangaram-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Cheriyam Island",
+      "Description": "Cheriyam Island is an untouched tropical paradise known for its serene beaches and crystal-clear waters, perfect for relaxing and enjoying the natural beauty of Lakshadweep.",
+      "Parameters": {
+        "Must-Visit": ["Cheriyam Beach", "Coral Reefs", "Crystal Clear Waters", "Tranquil Lagoon"],
+        "Local Cuisine": ["Fish Curry", "Grilled Lobster", "Coconut Rice", "Seafood Sweets"],
+        "Scenic Beauty": ["Pristine Beaches", "Coral Gardens", "Blue Waters", "Lagoon Views"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Island Hopping", "Swimming"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Island Culture", "Fishing Traditions"],
+        "Images": [
+          "https://example.com/images/cheriyam-island.jpg",
+          "https://example.com/images/cheriyam-beach.jpg"
+        ]
+      }
+    }
+  ]
+}

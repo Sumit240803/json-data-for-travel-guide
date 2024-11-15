@@ -1,0 +1,86 @@
+{
+  "Category": "Coastal Plains",
+  "State": "Lakshadweep",
+  "Local Places": [
+    {
+      "Name": "Agatti Island",
+      "Description": "Agatti Island is known for its pristine beaches and turquoise waters. It is a popular destination for water sports, particularly scuba diving and snorkeling.",
+      "Parameters": {
+        "Must-Visit": ["Agatti Beach", "Agatti Lagoon", "Lagoon Resort", "Nearby Coral Reefs"],
+        "Local Cuisine": ["Fresh Seafood", "Coconut Curries", "Fried Fish", "Tandoori Dishes"],
+        "Scenic Beauty": ["Coral Reefs", "Beachfront Views", "Crystal Clear Waters"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Boat Rides", "Water Sports"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Traditional Lakshadweep Cuisine", "Island Culture"],
+        "Images": [
+          "https://example.com/images/agatti-island.jpg",
+          "https://example.com/images/agatti-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Bangaram Island",
+      "Description": "Bangaram Island is one of the most beautiful islands in Lakshadweep, famous for its white sandy beaches and serene environment. It's perfect for relaxing and exploring the underwater world.",
+      "Parameters": {
+        "Must-Visit": ["Bangaram Beach", "Nearby Coral Gardens", "Laccadive Archipelago", "Marine Life Exploration"],
+        "Local Cuisine": ["Coconut Curries", "Prawns", "Fried Fish", "Tropical Fruits"],
+        "Scenic Beauty": ["Beach Views", "Underwater Marine Life", "Clear Blue Water"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Kayaking", "Fishing"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Traditional Lakshadweep Arts", "Island Communities"],
+        "Images": [
+          "https://example.com/images/bangaram-island.jpg",
+          "https://example.com/images/coral-gardens.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kavaratti Island",
+      "Description": "Kavaratti is the capital of Lakshadweep and offers stunning beaches and opportunities for water sports. It is known for its lagoons and pristine coral reefs.",
+      "Parameters": {
+        "Must-Visit": ["Kavaratti Beach", "Kavaratti Lagoon", "Marine Museum", "Ujra Mosque"],
+        "Local Cuisine": ["Seafood", "Fish Curry", "Rice Dishes", "Spicy Snacks"],
+        "Scenic Beauty": ["Coral Reefs", "Beachfront Views", "Clear Waters"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Glass Bottom Boat Ride", "Fishing"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Islamic Heritage", "Traditional Arts"],
+        "Images": [
+          "https://example.com/images/kavaratti-island.jpg",
+          "https://example.com/images/marine-museum.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Minicoy Island",
+      "Description": "Minicoy Island is one of the largest and most beautiful islands in Lakshadweep, famous for its crescent-shaped beach and beautiful coral reefs.",
+      "Parameters": {
+        "Must-Visit": ["Minicoy Beach", "Laccadive Archipelago", "Viringili Island", "Nearby Coral Reefs"],
+        "Local Cuisine": ["Coconut-Based Dishes", "Fish Curry", "Prawn Masala", "Tropical Fruits"],
+        "Scenic Beauty": ["Clear Water", "Coral Reefs", "Beaches"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Fishing", "Water Sports"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Matriarchal Society", "Lakshadweep Culture"],
+        "Images": [
+          "https://example.com/images/minicoy-island.jpg",
+          "https://example.com/images/minicoy-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Suheli Par",
+      "Description": "Suheli Par is a small atoll in Lakshadweep, famous for its shallow waters and coral reefs. It is a secluded spot for those looking for peace and tranquility.",
+      "Parameters": {
+        "Must-Visit": ["Suheli Beach", "Coral Reefs", "Nearby Island Reserves"],
+        "Local Cuisine": ["Fish Fry", "Rice and Coconut", "Grilled Seafood"],
+        "Scenic Beauty": ["Coral Reefs", "Island Views", "Clear Waters"],
+        "Adventure Activities": ["Scuba Diving", "Snorkeling", "Island Exploration", "Bird Watching"],
+        "Best Time to Visit": ["October to April"],
+        "Cultural Significance": ["Traditional Fishing Techniques", "Island Life"],
+        "Images": [
+          "https://example.com/images/suheli-par.jpg",
+          "https://example.com/images/coral-reef.jpg"
+        ]
+      }
+    }
+  ]
+}

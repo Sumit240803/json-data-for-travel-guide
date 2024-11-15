@@ -1,0 +1,86 @@
+{
+  "Category": "Islands",
+  "State": "Andaman and Nicobar Islands",
+  "Local Places": [
+    {
+      "Name": "Havelock Island",
+      "Description": "Havelock Island is known for its pristine beaches, crystal-clear waters, and rich marine life. It is a popular destination for water sports like scuba diving and snorkeling.",
+      "Parameters": {
+        "Must-Visit": ["Radhanagar Beach", "Kalapathar Beach", "Elephant Beach", "Laxmanpur Beach"],
+        "Local Cuisine": ["Seafood", "Fish Curry", "Tandoori Prawns", "Coconut Curries"],
+        "Scenic Beauty": ["Beachfront Views", "Lush Greenery", "Clear Waters", "Sunset Views"],
+        "Adventure Activities": ["Scuba Diving", "Snorkeling", "Kayaking", "Jet Skiing"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Traditional Tribal Culture", "Island Lifestyle"],
+        "Images": [
+          "https://example.com/images/havelock-island.jpg",
+          "https://example.com/images/radhanagar-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Neil Island",
+      "Description": "Neil Island is a serene paradise with vibrant coral reefs, quiet beaches, and a peaceful atmosphere. It is perfect for a laid-back vacation and beach activities.",
+      "Parameters": {
+        "Must-Visit": ["Laxmanpur Beach", "Bharatpur Beach", "Natural Bridge", "Vegetable Garden"],
+        "Local Cuisine": ["Grilled Fish", "Seafood Platters", "Coconut Dishes", "Fried Fish"],
+        "Scenic Beauty": ["Coral Reefs", "Crystal Clear Waters", "Greenery", "Sunsets"],
+        "Adventure Activities": ["Snorkeling", "Scuba Diving", "Cycling", "Beach Walks"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Local Fishing Communities", "Peaceful Island Life"],
+        "Images": [
+          "https://example.com/images/neil-island.jpg",
+          "https://example.com/images/laxmanpur-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ritchie's Archipelago",
+      "Description": "Ritchie's Archipelago consists of a group of small islands offering scenic views, vibrant coral reefs, and secluded beaches. It's a great place for adventure seekers and nature lovers.",
+      "Parameters": {
+        "Must-Visit": ["Turtle Beach", "Limestone Caves", "Coral Reefs", "Secluded Beaches"],
+        "Local Cuisine": ["Fried Fish", "Coconut Curries", "Seafood Grill", "Tropical Fruits"],
+        "Scenic Beauty": ["Coral Reefs", "Island Views", "Clear Waters"],
+        "Adventure Activities": ["Snorkeling", "Trekking", "Bird Watching", "Camping"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Indigenous Cultures", "Traditional Fishing Techniques"],
+        "Images": [
+          "https://example.com/images/ritchies-archipelago.jpg",
+          "https://example.com/images/turtle-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Baratang Island",
+      "Description": "Baratang Island is known for its limestone caves, mangrove forests, and beautiful beaches. It offers a unique blend of adventure and natural beauty.",
+      "Parameters": {
+        "Must-Visit": ["Limestone Caves", "Mud Volcano", "Parrot Island", "Baludera Beach"],
+        "Local Cuisine": ["Coconut-Based Dishes", "Grilled Fish", "Seafood Stews", "Rice and Curry"],
+        "Scenic Beauty": ["Mangrove Forests", "Caves", "Beaches"],
+        "Adventure Activities": ["Kayaking", "Trekking", "Snorkeling", "Mangrove Tours"],
+        "Best Time to Visit": ["November to April"],
+        "Cultural Significance": ["Tribal Communities", "Traditional Fishing Culture"],
+        "Images": [
+          "https://example.com/images/baratang-island.jpg",
+          "https://example.com/images/limestone-caves.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ross Island",
+      "Description": "Ross Island is a historical site with colonial-era ruins and natural beauty. It is a popular tourist spot for its mix of history and scenic surroundings.",
+      "Parameters": {
+        "Must-Visit": ["British Colony Ruins", "Ross Island Beach", "Sunset Viewpoint", "Natural Habitat of Peacocks"],
+        "Local Cuisine": ["Seafood", "Indian Curries", "Grilled Fish", "Rice Dishes"],
+        "Scenic Beauty": ["Colonial Ruins", "Island Views", "Beachfront"],
+        "Adventure Activities": ["Nature Walks", "Photography", "Bird Watching"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["British Colonial History", "Indian Independence Connection"],
+        "Images": [
+          "https://example.com/images/ross-island.jpg",
+          "https://example.com/images/british-colony-ruins.jpg"
+        ]
+      }
+    }
+  ]
+}

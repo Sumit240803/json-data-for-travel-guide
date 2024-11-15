@@ -1,0 +1,107 @@
+{
+  "Category": "Coastal Plains",
+  "State": "West Bengal",
+  "Local Places": [
+    {
+      "Name": "Kolkata",
+      "Description": "Kolkata, the capital city of West Bengal, is known for its colonial architecture, vibrant culture, and rich history. It is also famous for its festivals and delicious Bengali cuisine.",
+      "Parameters": {
+        "Must-Visit": ["Victoria Memorial", "Howrah Bridge", "Dakshineswar Kali Temple", "Indian Museum"],
+        "Local Cuisine": ["Macher Jhol", "Rosogolla", "Misti Doi", "Kathi Roll"],
+        "Scenic Beauty": ["River Views", "Architectural Views", "Park Views"],
+        "Adventure Activities": ["Photography", "Heritage Walk", "Boating"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Bengali Culture", "Festivals like Durga Puja"],
+        "Images": [
+          "https://example.com/images/victoria-memorial.jpg",
+          "https://example.com/images/howrah-bridge.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sundarbans",
+      "Description": "The Sundarbans is the largest mangrove forest in the world and is home to the famous Bengal tigers. This UNESCO World Heritage Site is an ecologically significant region.",
+      "Parameters": {
+        "Must-Visit": ["Sundarbans Tiger Reserve", "Sajnekhali Bird Sanctuary", "Dobanki Watchtower", "Sudhanyakhali Watchtower"],
+        "Local Cuisine": ["Fish Curry", "Prawn Malai Curry", "Hilsa Fish", "Chingri Maacher Malaikari"],
+        "Scenic Beauty": ["Mangrove Forest", "River Views", "Wildlife"],
+        "Adventure Activities": ["Boating", "Wildlife Safari", "Bird Watching"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Bengali Folklore", "Nature Conservation"],
+        "Images": [
+          "https://example.com/images/sundarbans-tiger-reserve.jpg",
+          "https://example.com/images/mangrove-forest.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Darjeeling",
+      "Description": "Darjeeling, also known as the 'Queen of the Hills', is famous for its tea plantations, the Darjeeling Himalayan Railway, and stunning views of the Kanchenjunga mountain.",
+      "Parameters": {
+        "Must-Visit": ["Tiger Hill", "Batasia Loop", "Darjeeling Himalayan Railway", "Peace Pagoda"],
+        "Local Cuisine": ["Momos", "Thukpa", "Darjeeling Tea", "Gundruk"],
+        "Scenic Beauty": ["Mountain Views", "Tea Gardens", "Railway Views"],
+        "Adventure Activities": ["Trekking", "Toy Train Ride", "Photography"],
+        "Best Time to Visit": ["March to June", "September to November"],
+        "Cultural Significance": ["Bengali and Nepali Culture", "Tea Gardens"],
+        "Images": [
+          "https://example.com/images/tiger-hill-darjeeling.jpg",
+          "https://example.com/images/peace-pagoda.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Digha",
+      "Description": "Digha is a popular beach destination in West Bengal, known for its long sandy beaches and serene atmosphere. It is one of the most frequented seaside resorts in the state.",
+      "Parameters": {
+        "Must-Visit": ["Digha Beach", "Junput Beach", "Talseri Beach", "Digha Science Centre"],
+        "Local Cuisine": ["Fish Fry", "Hilsa Fish", "Chingri Malai Curry", "Sweets like Sandesh"],
+        "Scenic Beauty": ["Beach Views", "Sea Views", "Sunset Views"],
+        "Adventure Activities": ["Beach Activities", "Boating", "Swimming"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Coastal Heritage", "Fishing Culture"],
+        "Images": [
+          "https://example.com/images/digha-beach.jpg",
+          "https://example.com/images/talseri-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Shantiniketan",
+      "Description": "Shantiniketan is a small town that was the residence of the famous poet Rabindranath Tagore. The town is known for its cultural significance and the Visva-Bharati University.",
+      "Parameters": {
+        "Must-Visit": ["Rabindra Bhavan", "Shantiniketan Museum", "Bolpur", "Upasana Griha"],
+        "Local Cuisine": ["Shorshe Ilish", "Luchi", "Bengali Sweets", "Chingri Malai Curry"],
+        "Scenic Beauty": ["Cultural Views", "Artistic Views", "University Campus"],
+        "Adventure Activities": ["Cultural Tours", "Photography", "Heritage Walk"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Rabindranath Tagore's Legacy", "Indian Art and Culture"],
+        "Images": [
+          "https://example.com/images/rabindra-bhavan.jpg",
+          "https://example.com/images/shantiniketan-campus.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Murshidabad",
+      "Description": "Murshidabad, an ancient town, is known for its historical landmarks, Mughal-era architecture, and its role in India's struggle for independence.",
+      "Parameters": {
+        "Must-Visit": ["Hazarduari Palace", "Katra Masjid", "Moti Jheel", "Nizamat Imambara"],
+        "Local Cuisine": ["Biryani", "Roti", "Fish Curry", "Prawn Malai Curry"],
+        "Scenic Beauty": ["Historical Sites", "Palace Views", "River Views"],
+        "Adventure Activities": ["Heritage Tours", "Photography", "Boating"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Mughal Heritage", "Historic Landmarks"],
+        "Images": [
+          "https://example.com/images/hazarduari-palace.jpg",
+          "https://example.com/images/katra-masjid.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Bankura",
+      "Description": "Bankura is known for its terracotta temples, rich culture, and the scenic beauty of the surrounding landscape. It is a peaceful town ideal for those seeking history and nature.",
+      "Parameters": {
+        "Must-Visit": ["Bishnupur", "Bankura Town", "Jor Bangla Temple", "Radha Govinda Temple"],
+        "Local Cuisine": ["Macher Jhol", "Bengali Sweets", "Biryani", "Doi Maach"],
+        "Sce
