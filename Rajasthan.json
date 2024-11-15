@@ -1,0 +1,118 @@
+{
+  "Category": "Desert",
+  "State": "Rajasthan",
+  "Local Places": [
+    {
+      "Name": "Jaisalmer Fort",
+      "Description": "Jaisalmer Fort, also known as Sonar Quila (Golden Fort), is one of the largest living forts in the world, located in the Thar Desert. It features stunning architecture, ancient temples, and breathtaking views of the desert landscape.",
+      "Parameters": {
+        "Must-Visit": ["Fort Exploration", "Viewpoints", "Shopping for Local Handicrafts", "Photography"],
+        "Local Cuisine": ["Dal Baati Churma", "Ghevar", "Mirchi Vada", "Laal Maas"],
+        "Scenic Beauty": ["Golden Architecture", "Desert Views", "Sunset Views"],
+        "Adventure Activities": ["Camel Safari", "Photography", "Cultural Exploration"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["UNESCO World Heritage Site", "Historic Fort"],
+        "Images": [
+          "https://example.com/images/jaisalmer-fort.jpg",
+          "https://example.com/images/jaisalmer-sunset.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Sam Sand Dunes",
+      "Description": "Located in the Thar Desert, Sam Sand Dunes is a popular spot for camel safaris. Tourists can enjoy a thrilling ride across the golden sand dunes, as well as a traditional Rajasthani cultural experience.",
+      "Parameters": {
+        "Must-Visit": ["Camel Safari", "Rajasthani Cultural Performances", "Stargazing", "Sand Dune Exploration"],
+        "Local Cuisine": ["Ghevar", "Rajasthani Thali", "Laal Maas", "Dal Baati Churma"],
+        "Scenic Beauty": ["Golden Sand Dunes", "Desert Sunset", "Starry Night"],
+        "Adventure Activities": ["Camel Ride", "Quad Biking", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Desert Culture", "Camel Safari Tradition"],
+        "Images": [
+          "https://example.com/images/sam-sand-dunes.jpg",
+          "https://example.com/images/camel-safari.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Bikaner",
+      "Description": "Bikaner, located in the Thar Desert, is famous for its rich cultural heritage, historic forts, and the famous Bikaneri Bhujia. The Junagarh Fort is one of the most iconic landmarks of this desert city.",
+      "Parameters": {
+        "Must-Visit": ["Junagarh Fort", "Lalgarh Palace", "Karni Mata Temple", "Camel Research Centre"],
+        "Local Cuisine": ["Bikaneri Bhujia", "Kachori", "Ghevar", "Churma"],
+        "Scenic Beauty": ["Historical Architecture", "Desert Views", "Palace Gardens"],
+        "Adventure Activities": ["Camel Safari", "Desert Exploration", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Historical Landmarks", "Rajasthani Cuisine"],
+        "Images": [
+          "https://example.com/images/bikaner.jpg",
+          "https://example.com/images/junagarh-fort.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Pushkar",
+      "Description": "Pushkar is a sacred town known for its holy lake and the famous Brahma Temple. It is also famous for its camel fair, which attracts tourists and pilgrims from around the world.",
+      "Parameters": {
+        "Must-Visit": ["Brahma Temple", "Pushkar Lake", "Camel Fair", "Shopping for Handicrafts"],
+        "Local Cuisine": ["Pyaaz Kachori", "Ghevar", "Dal Baati Churma", "Lassi"],
+        "Scenic Beauty": ["Sacred Lake", "Desert Views", "Sunset Views over the Lake"],
+        "Adventure Activities": ["Camel Ride", "Photography", "Exploring Temples"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Holy Lake", "Camel Fair", "Pilgrimage Site"],
+        "Images": [
+          "https://example.com/images/pushkar-lake.jpg",
+          "https://example.com/images/pushkar-fair.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Jodhpur",
+      "Description": "Jodhpur, also known as the 'Blue City,' is famous for its majestic Mehrangarh Fort, beautiful blue-painted houses, and vibrant culture. Located in the Thar Desert, Jodhpur offers a glimpse into Rajasthan's royal history.",
+      "Parameters": {
+        "Must-Visit": ["Mehrangarh Fort", "Umaid Bhawan Palace", "Clock Tower Market", "Mandore Gardens"],
+        "Local Cuisine": ["Makhaniya Lassi", "Pyaaz Kachori", "Gatte ki Sabzi", "Laal Maas"],
+        "Scenic Beauty": ["Mehrangarh Fort", "Blue City Views", "Desert Landscape"],
+        "Adventure Activities": ["Camel Ride", "Fort Exploration", "Desert Safari"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Royal Architecture", "Rajasthani Cuisine", "Historical Forts"],
+        "Images": [
+          "https://example.com/images/jodhpur-fort.jpg",
+          "https://example.com/images/blue-city.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mount Abu",
+      "Description": "Mount Abu is Rajasthan's only hill station, located in the Aravalli Range. Known for its pleasant weather and scenic beauty, it is a popular retreat for both tourists and locals.",
+      "Parameters": {
+        "Must-Visit": ["Dilwara Temples", "Nakki Lake", "Guru Shikhar", "Sunset Point"],
+        "Local Cuisine": ["Dal Baati Churma", "Ker Sangri", "Ghevar", "Gatte ki Sabzi"],
+        "Scenic Beauty": ["Hill Views", "Nakki Lake", "Sunset Views"],
+        "Adventure Activities": ["Boating", "Trekking", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Sacred Temples", "Pilgrimage Spot", "Hill Station"],
+        "Images": [
+          "https://example.com/images/mount-abu.jpg",
+          "https://example.com/images/dilwara-temples.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Ajmer",
+      "Description": "Ajmer is a historical city known for the Ajmer Sharif Dargah, the tomb of the Sufi saint Khwaja Moinuddin Chisti. It is a place of pilgrimage for many people from different faiths.",
+      "Parameters": {
+        "Must-Visit": ["Ajmer Sharif Dargah", "Ana Sagar Lake", "Taragarh Fort", "Ajmer Jain Temple"],
+        "Local Cuisine": ["Mewari Thali", "Kachori", "Sweets like Ghevar", "Laal Maas"],
+        "Scenic Beauty": ["Lake Views", "Historical Fort", "Desert Surroundings"],
+        "Adventure Activities": ["Fort Exploration", "Boating", "Cultural Exploration"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Sufi Pilgrimage", "Islamic Architecture"],
+        "Images": [
+          "https://example.com/images/ajmer-sharif.jpg",
+          "https://example.com/images/ana-sagar-lake.jpg"
+        ]
+      }
+    }
+  ]
+}

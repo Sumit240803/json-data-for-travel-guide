@@ -1,0 +1,86 @@
+{
+  "Category": "Coastal Plains",
+  "State": "Gujarat",
+  "Local Places": [
+    {
+      "Name": "Dwarka",
+      "Description": "Dwarka is a city on the western coast of India, known for its association with Lord Krishna. It is one of the Char Dham pilgrimage sites, and its beautiful temples and coastal views make it a must-visit for pilgrims and tourists alike.",
+      "Parameters": {
+        "Must-Visit": ["Dwarkadhish Temple", "Rukmini Devi Temple", "Bet Dwarka", "Dwarka Beach"],
+        "Local Cuisine": ["Dhokla", "Khandvi", "Farsan", "Undhiyu"],
+        "Scenic Beauty": ["Temple Views", "Coastal Views", "Sunset Views"],
+        "Adventure Activities": ["Beach Activities", "Boating", "Fishing"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Pilgrimage Site", "Historic Temples"],
+        "Images": [
+          "https://example.com/images/dwarka-temple.jpg",
+          "https://example.com/images/dwarka-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Somnath",
+      "Description": "Somnath, located along the coast of Gujarat, is home to the famous Somnath Temple, one of the twelve Jyotirlingas dedicated to Lord Shiva. The temple is a historical and architectural marvel, with beautiful views of the Arabian Sea.",
+      "Parameters": {
+        "Must-Visit": ["Somnath Temple", "Prabhas Patan Museum", "Bhalka Tirth", "Triveni Sangam"],
+        "Local Cuisine": ["Dhokla", "Khandvi", "Farsan", "Gujarati Thali"],
+        "Scenic Beauty": ["Temple Views", "Arabian Sea Views", "Sunset Views"],
+        "Adventure Activities": ["Beach Activities", "Boating", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Pilgrimage Site", "Ancient Temple"],
+        "Images": [
+          "https://example.com/images/somnath-temple.jpg",
+          "https://example.com/images/somnath-beach.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Daman",
+      "Description": "Daman is a coastal city located on the Arabian Sea coast, known for its beautiful beaches, Portuguese colonial architecture, and relaxed atmosphere. It is a popular getaway for those looking to enjoy both history and nature.",
+      "Parameters": {
+        "Must-Visit": ["Devka Beach", "Jampore Beach", "Daman Fort", "Cathedral of Bom Jesus"],
+        "Local Cuisine": ["Seafood", "Dhokla", "Khandvi", "Prawn Curry"],
+        "Scenic Beauty": ["Beach Views", "Sunset Views", "Colonial Architecture"],
+        "Adventure Activities": ["Beach Activities", "Parasailing", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Portuguese Influence", "Coastal Heritage"],
+        "Images": [
+          "https://example.com/images/daman-beach.jpg",
+          "https://example.com/images/daman-fort.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Gujarat Maritime Museum",
+      "Description": "Located in the coastal city of Veraval, the Gujarat Maritime Museum offers insight into the maritime history of Gujarat. It features exhibits on ships, fishing, and the state’s rich seafaring history.",
+      "Parameters": {
+        "Must-Visit": ["Gujarat Maritime Museum", "Fisheries Port", "Lighthouse", "Fish Market"],
+        "Local Cuisine": ["Seafood", "Dhokla", "Khandvi", "Gujarati Thali"],
+        "Scenic Beauty": ["Coastal Views", "Lighthouse Views"],
+        "Adventure Activities": ["Boating", "Fishing", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Maritime History", "Gujarat's Coastal Heritage"],
+        "Images": [
+          "https://example.com/images/maritime-museum.jpg",
+          "https://example.com/images/gujarat-coast.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Mandvi Beach",
+      "Description": "Mandvi is a coastal town in Kutch, Gujarat, famous for its pristine beaches. It is a great place to relax, enjoy beach sports, and experience Gujarat's coastline at its best.",
+      "Parameters": {
+        "Must-Visit": ["Mandvi Beach", "Shyamji Krishna Varma Memorial", "Rukmini Mandir", "Jain Temple"],
+        "Local Cuisine": ["Seafood", "Dhokla", "Khandvi", "Gujarati Snacks"],
+        "Scenic Beauty": ["Beach Views", "Desert and Coastline Views", "Sunset Views"],
+        "Adventure Activities": ["Water Sports", "Parasailing", "Photography"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Beach Culture", "Heritage Sites"],
+        "Images": [
+          "https://example.com/images/mandvi-beach.jpg",
+          "https://example.com/images/mandvi-sunset.jpg"
+        ]
+      }
+    }
+  ]
+}

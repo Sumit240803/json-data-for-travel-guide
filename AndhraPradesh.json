@@ -1,0 +1,134 @@
+{
+  "Category": "Coastal Plains",
+  "State": "Andhra Pradesh",
+  "Local Places": [
+    {
+      "Name": "Visakhapatnam",
+      "Description": "Visakhapatnam, also known as Vizag, is a coastal city in Andhra Pradesh known for its beautiful beaches, scenic hills, and rich culture. It's also a major port city in India.",
+      "Parameters": {
+        "Must-Visit": ["R.K. Beach", "Submarine Museum", "Kailasagiri Hill", "Borra Caves"],
+        "Local Cuisine": ["Seafood", "Dosa", "Pulihora", "Gongura Pickle"],
+        "Scenic Beauty": ["Beach Views", "Hill Views", "Cave Views"],
+        "Adventure Activities": ["Water Sports", "Trekking", "Boating"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Coastal Culture", "Heritage Sites"],
+        "Images": [
+          "https://example.com/images/visakhapatnam-beach.jpg",
+          "https://example.com/images/kailasagiri-hill.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Tirupati",
+      "Description": "Tirupati is an ancient city known for the famous Venkateswara Temple on the Tirumala Hills. It is one of the most visited pilgrimage destinations in India.",
+      "Parameters": {
+        "Must-Visit": ["Venkateswara Temple", "Sri Kapileswara Swamy Temple", "Talakona Waterfalls", "Sri Veda Narayana Temple"],
+        "Local Cuisine": ["Pulihora", "Sambhar", "Curd Rice", "Dosa"],
+        "Scenic Beauty": ["Temple Views", "Waterfalls", "Hillside Views"],
+        "Adventure Activities": ["Temple Visit", "Trekking", "Photography"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Religious Significance", "Pilgrimage"],
+        "Images": [
+          "https://example.com/images/venkateswara-temple.jpg",
+          "https://example.com/images/tirupati-hills.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Amaravati",
+      "Description": "Amaravati is the capital city of Andhra Pradesh, known for its rich history and ancient Buddhist monuments. It is an emerging city with a blend of modernity and heritage.",
+      "Parameters": {
+        "Must-Visit": ["Amaravati Buddhist Stupa", "Andhra Pradesh High Court", "Sanchi Stupa Replica", "Rajiv Gandhi Park"],
+        "Local Cuisine": ["Pulihora", "Rice and Curry", "Chicken Curry", "Curd Rice"],
+        "Scenic Beauty": ["Stupa Views", "Park Views", "River Views"],
+        "Adventure Activities": ["Cycling", "Photography", "Heritage Tour"],
+        "Best Time to Visit": ["October to February"],
+        "Cultural Significance": ["Buddhist Heritage", "Ancient Monuments"],
+        "Images": [
+          "https://example.com/images/amaravati-buddhist-stupa.jpg",
+          "https://example.com/images/amaravati-temple.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kakinada",
+      "Description": "Kakinada is a coastal town known for its beautiful beaches and agricultural significance. It is a major exporter of seafood and is well known for its bustling port.",
+      "Parameters": {
+        "Must-Visit": ["Kakinada Beach", "Coringa Wildlife Sanctuary", "Godavari Bridge", "Draksharama Temple"],
+        "Local Cuisine": ["Fish Curry", "Prawn Biryani", "Dosa", "Kakarla"],
+        "Scenic Beauty": ["Beach Views", "River Views", "Wildlife Sanctuary"],
+        "Adventure Activities": ["Boating", "Fishing", "Wildlife Watching"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Coastal Heritage", "Port City"],
+        "Images": [
+          "https://example.com/images/kakinada-beach.jpg",
+          "https://example.com/images/godavari-bridge.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Guntur",
+      "Description": "Guntur is a historic city in Andhra Pradesh known for its temples, educational institutions, and the famous Guntur chili. It is an important cultural and agricultural center.",
+      "Parameters": {
+        "Must-Visit": ["Amaravathi Stupa", "Peddagundla Fort", "Brahma Sri Narayana Swamy Temple", "Kondaveedu Fort"],
+        "Local Cuisine": ["Guntur Chilli", "Pulihora", "Sambar", "Rice & Curry"],
+        "Scenic Beauty": ["Temple Views", "Hill Views", "Fort Views"],
+        "Adventure Activities": ["Trekking", "Photography", "Heritage Tour"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Ancient Temples", "Historic Forts"],
+        "Images": [
+          "https://example.com/images/amaravathi-stupa.jpg",
+          "https://example.com/images/guntur-fort.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Rajahmundry",
+      "Description": "Rajahmundry is a historic city located on the banks of the Godavari River. Known for its rich cultural heritage and stunning river views, it is often referred to as the 'Cultural Capital of Andhra Pradesh'.",
+      "Parameters": {
+        "Must-Visit": ["Godavari River", "Dowleswaram Barrage", "Iskcon Temple", "Papi Hills"],
+        "Local Cuisine": ["Godavari Fish Curry", "Dosa", "Pesarattu", "Pulihora"],
+        "Scenic Beauty": ["River Views", "Hill Views", "Temple Views"],
+        "Adventure Activities": ["Boating", "Trekking", "Photography"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["River Culture", "Traditional Dance"],
+        "Images": [
+          "https://example.com/images/godavari-river.jpg",
+          "https://example.com/images/dowleswaram-barrage.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Nellore",
+      "Description": "Nellore is a city known for its temples, agriculture, and lakes. It is an ancient town with a rich history, offering a variety of cultural experiences.",
+      "Parameters": {
+        "Must-Visit": ["Penchalakona Temple", "Sri Ranganathaswamy Temple", "Pillalamarri", "Somasila Dam"],
+        "Local Cuisine": ["Nellore Fish Curry", "Pesarattu", "Curd Rice", "Biryani"],
+        "Scenic Beauty": ["Temple Views", "Lake Views", "River Views"],
+        "Adventure Activities": ["Fishing", "Trekking", "Cultural Tours"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Ancient Temples", "Cultural History"],
+        "Images": [
+          "https://example.com/images/penchalakona-temple.jpg",
+          "https://example.com/images/somasila-dam.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Srikakulam",
+      "Description": "Srikakulam is a coastal city known for its temples, beaches, and wildlife sanctuaries. It is located in the northeastern part of Andhra Pradesh and offers a blend of natural beauty and cultural significance.",
+      "Parameters": {
+        "Must-Visit": ["Srikurmam Temple", "Kalingapatnam Beach", "Telineelapuram Bird Sanctuary", "Baruva Beach"],
+        "Local Cuisine": ["Srikakulam Fish Curry", "Pulihora", "Pesarattu", "Sambar"],
+        "Scenic Beauty": ["Beach Views", "Temple Views", "Bird Sanctuary"],
+        "Adventure Activities": ["Bird Watching", "Boating", "Beach Activities"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Pilgrimage", "Wildlife Conservation"],
+        "Images": [
+          "https://example.com/images/srikurmam-temple.jpg",
+          "https://example.com/images/kalingapatnam-beach.jpg"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "Category": "Coastal Plains",
+  "State": "Kerala",
+  "Local Places": [
+    {
+      "Name": "Alleppey (Alappuzha) Backwaters",
+      "Description": "Alleppey is known for its picturesque backwaters, traditional houseboats, and scenic beauty. A houseboat ride through the backwaters is a must-do experience, offering a tranquil retreat into nature.",
+      "Parameters": {
+        "Must-Visit": ["Alleppey Backwaters", "Vembanad Lake", "Kuttanadu", "Punnappra Beach"],
+        "Local Cuisine": ["Karimeen Pollichathu", "Appam with Stew", "Fish Curry", "Puttu with Kadala Curry"],
+        "Scenic Beauty": ["Backwater Views", "Lake Views", "Coconut Groves", "Sunset Views"],
+        "Adventure Activities": ["Houseboat Ride", "Fishing", "Kayaking", "Cycling"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Backwater Tourism", "Traditional Houseboats"],
+        "Images": [
+          "https://example.com/images/alleppey-backwaters.jpg",
+          "https://example.com/images/alleppey-houseboat.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kochi (Cochin)",
+      "Description": "Kochi, also known as Cochin, is a vibrant city on the Malabar Coast known for its colonial architecture, historical sites, and cultural heritage. Key attractions include Fort Kochi, Chinese fishing nets, and the Mattancherry Palace.",
+      "Parameters": {
+        "Must-Visit": ["Fort Kochi", "Mattancherry Palace", "Chinese Fishing Nets", "Jew Town"],
+        "Local Cuisine": ["Kallummakkaya", "Prawn Curry", "Fish Moilee", "Kerala Sadya"],
+        "Scenic Beauty": ["Harbor Views", "Colonial Architecture", "Sunset Views"],
+        "Adventure Activities": ["Boating", "Fishing", "Sightseeing", "Shopping"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Colonial Heritage", "Cultural Diversity", "Historic Landmarks"],
+        "Images": [
+          "https://example.com/images/fort-kochi.jpg",
+          "https://example.com/images/kochiharbor.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Varkala Beach",
+      "Description": "Varkala is a beautiful coastal town known for its cliffs that overlook the Arabian Sea. Varkala Beach is famous for its scenic beauty and spiritual significance, with the Janardanaswamy Temple located nearby.",
+      "Parameters": {
+        "Must-Visit": ["Varkala Beach", "Janardanaswamy Temple", "Papanasam Beach", "Varkala Cliff"],
+        "Local Cuisine": ["Kerala Parotta", "Appam with Stew", "Karimeen Fry", "Fish Curry"],
+        "Scenic Beauty": ["Beach Views", "Cliff Views", "Sunset Views", "Ocean Views"],
+        "Adventure Activities": ["Beach Swimming", "Yoga", "Surfing", "Parasailing"],
+        "Best Time to Visit": ["October to March"],
+        "Cultural Significance": ["Spiritual Destination", "Beachside Views"],
+        "Images": [
+          "https://example.com/images/varkala-beach.jpg",
+          "https://example.com/images/varkala-cliff.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kumarakom",
+      "Description": "Kumarakom is a serene backwater destination located near Vembanad Lake. Famous for its tranquil atmosphere and bird sanctuary, it is an ideal location for houseboat cruises and nature walks.",
+      "Parameters": {
+        "Must-Visit": ["Kumarakom Bird Sanctuary", "Vembanad Lake", "Aymanam Village", "Punnappra Beach"],
+        "Local Cuisine": ["Karimeen Pollichathu", "Appam", "Fish Curry", "Kerala Sadya"],
+        "Scenic Beauty": ["Backwater Views", "Lake Views", "Nature Trails"],
+        "Adventure Activities": ["Houseboat Ride", "Bird Watching", "Cycling", "Boating"],
+        "Best Time to Visit": ["November to February"],
+        "Cultural Significance": ["Backwater Tourism", "Bird Watching Destination"],
+        "Images": [
+          "https://example.com/images/kumarakom-lake.jpg",
+          "https://example.com/images/kumarakom-bird-sanctuary.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Munnar",
+      "Description": "Munnar is a hill station in Kerala known for its lush tea gardens, cool climate, and beautiful landscapes. It's an ideal place for nature lovers and adventure enthusiasts.",
+      "Parameters": {
+        "Must-Visit": ["Tea Gardens", "Mattupetty Dam", "Eravikulam National Park", "Attukal Waterfalls"],
+        "Local Cuisine": ["Appam with Stew", "Puttu with Kadala Curry", "Kerala Sadya", "Fish Curry"],
+        "Scenic Beauty": ["Tea Garden Views", "Mountain Views", "Valley Views"],
+        "Adventure Activities": ["Trekking", "Sightseeing", "Tea Estate Tour", "Nature Walks"],
+        "Best Time to Visit": ["September to May"],
+        "Cultural Significance": ["Tea Plantation", "Hill Station"],
+        "Images": [
+          "https://example.com/images/munnar-tea-garden.jpg",
+          "https://example.com/images/munnar-waterfalls.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Athirappilly Waterfalls",
+      "Description": "Athirappilly is one of the most famous waterfalls in Kerala, located in the Thrissur district. Known as the 'Niagara of India', it is a popular tourist spot surrounded by lush greenery.",
+      "Parameters": {
+        "Must-Visit": ["Athirappilly Waterfalls", "Vazhachal Waterfalls", "Sholayar Forests", "Charpa Falls"],
+        "Local Cuisine": ["Fish Curry", "Puttu", "Kappa with Fish Curry", "Sadya"],
+        "Scenic Beauty": ["Waterfall Views", "Greenery", "River Views"],
+        "Adventure Activities": ["Trekking", "Photography", "Waterfall Bathing"],
+        "Best Time to Visit": ["June to January"],
+        "Cultural Significance": ["Natural Beauty", "Film Location"],
+        "Images": [
+          "https://example.com/images/athirappilly-waterfalls.jpg",
+          "https://example.com/images/athirappilly-falls.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Wayanad",
+      "Description": "Wayanad is a picturesque district located in the Western Ghats. Known for its hills, waterfalls, and wildlife sanctuaries, it's an ideal destination for trekking, wildlife safaris, and nature walks.",
+      "Parameters": {
+        "Must-Visit": ["Edakkal Caves", "Wayanad Wildlife Sanctuary", "Soochipara Falls", "Pookode Lake"],
+        "Local Cuisine": ["Puttu", "Kappa", "Fish Curry", "Pachadi"],
+        "Scenic Beauty": ["Mountain Views", "Waterfall Views", "Forest Views"],
+        "Adventure Activities": ["Trekking", "Wildlife Safari", "Photography", "Boating"],
+        "Best Time to Visit": ["October to May"],
+        "Cultural Significance": ["Natural Beauty", "Tribal Culture"],
+        "Images": [
+          "https://example.com/images/wayanad-view.jpg",
+          "https://example.com/images/wayanad-waterfalls.jpg"
+        ]
+      }
+    },
+    {
+      "Name": "Kovalam Beach",
+      "Description": "Kovalam Beach is one of the most famous beaches in Kerala, known for its crescent-shaped coastline and calm waters. It's a great destination for sunbathing, swimming, and water sports.",
+      "Parameters": {
+        "Must-Visit": ["Lighthouse Beach", "Samudra Beach", "Hawa Beach", "Vellayani Lake"],
+        "Local Cuisine": ["Kerala Sadya", "Seafood", "Fish Fry", "Appam with Stew"],
+        "Scenic Beauty": ["Beach Views", "Sunset Views", "Coastal Beauty"],
+        "Adventure Activities": ["Surfing", "Parasailing", "Sunbathing", "Swimming"],
+        "Best Time to Visit": ["November to March"],
+        "Cultural Significance": ["Beach Destination", "Tourism Spot"],
+        "Images": [
+          "https://example.com/images/kovalam-beach.jpg",
+          "https://example.com/images/kovalam-lighthouse.jpg"
+        ]
+      }
+    }
+  ]
+}
